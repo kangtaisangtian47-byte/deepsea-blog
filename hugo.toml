@@ -5,7 +5,6 @@ hasCJKLanguage = true
 summaryLength = 100        
 enableRobotsTXT = true
 
-
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -13,27 +12,26 @@ enableRobotsTXT = true
 [params]
   title = "氷山の一角日記 Frozen Terminal"
   subtitle = "Lubuntuから更新中"
-  avatar = "img/avatar-icon.png"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  avatar = "/img/avatar-icon.png"
+  logo = "/img/avatar-icon.png"
+  favicon = "/img/favicon.ico"
   showNavbarLinks = true
   showPageDates = true
   showReadingTime = true
-  bigimg = [{src = "img/header-bg.jpg", desc = ""}]
+  bigimg = [{src = "/img/header-bg.jpg", desc = ""}]
   showFullPostContent = false 
   googleAnalytics = "G-XXXXXXXXXX"
   description = "Lubuntuの活用法やゲーム、サブカル、日々の思考を綴る個人ブログ。軽量Linuxと趣味の記録。深海 航(Shinkai Wataru)。"
   customCSS = ["css/custom.css"]
   math = true
   custom_footer = "<a href='/privacy-policy/'>プライバシーポリシー</a>"
-
-  keywords = ["Lubuntu", "Linux", "ブログ", "深海航", "Frozen Terminal"] # 検索キーワード
-  images = ["img/header-bg.jpg"] # SNSでシェアされた時のデフォルト画像
+  keywords = ["Lubuntu", "Linux", "ブログ", "深海航", "Frozen Terminal"]
+  images = ["/img/header-bg.jpg"]
 
 [params.author]
   name = "深海 航"
   twitter = "https://x.com/MSgbeGGF0Q87402"
-  showToc = true # 目次を表示
+  showToc = true
 
 [[menu.main]]
     name = "Home"

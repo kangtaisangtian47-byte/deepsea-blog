@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>歴史 on 氷山の一角日記 Frozen Terminal</title>
-    <link>https://deepsea-blog.pages.dev/tags/%E6%AD%B4%E5%8F%B2/</link>
+    <link>http://localhost:1313/tags/%E6%AD%B4%E5%8F%B2/</link>
     <description>Recent content in 歴史 on 氷山の一角日記 Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://deepsea-blog.pages.dev/tags/%E6%AD%B4%E5%8F%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%AD%B4%E5%8F%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>人類史の『殻』を破られるタイミングとは</title>
-      <link>https://deepsea-blog.pages.dev/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</link>
+      <link>http://localhost:1313/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</link>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://deepsea-blog.pages.dev/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</guid>
+      <guid>http://localhost:1313/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</guid>
       <description>&lt;p&gt;人類の歴史の中でどこが一番重要だろう、と考えると、いろいろ候補は出てくる。&#xA;言葉や都市が生まれたウルク期とか、倫理の原型ができた出エジプトとか。どれも今の自分たちの土台になっているのは間違いない。&lt;/p&gt;&#xA;&lt;p&gt;特に、出エジプトで確立された「唯一神」という概念は決定的だった。それ以前にも宗教や信仰はあったけれど、絶対的な一柱の神と、それに基づく普遍的な「法」や「倫理」という形を民衆が共有したことで、人類の精神構造は一つ上のステージに上がった。&lt;/p&gt;</description>
     </item>
   </channel>
