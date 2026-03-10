@@ -1,0 +1,89 @@
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">{{ i18n "toggleNavigation" }}</span>
+        <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        {{ range .Site.Menus.main.ByWeight }}
+          {{ if .HasChildren }}
+            <li class="navlinks-container">
+              <a class="navlinks-parent" role="button" tabindex="0">{{ .Name }}</a>
+              <div class="navlinks-children">
+                {{ range .Children }}<a href="{{ .URL | relLangURL }}">{{ .Name }}</a>{{ end }}
+              </div>
+            </li>
+          {{ else }}
+            <li><a title="{{ .Name }}" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        {{ end }}
+
+        <li>
+          <a href="#modalSearch" data-toggle="modal" data-target="#modalSearch" style="outline: none;">
+            <span class="hidden-sm hidden-md hidden-lg">検索</span> 
+            <span id="searchGlyph" class="glyphicon glyphicon-search"></span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    {{ if isset .Site.Params "logo" }}
+      <div class="avatar-container">
+        <div class="avatar-img-border">
+          <a title="{{ .Site.Title }}" href="{{ "" | absLangURL }}">
+            <img class="avatar-img" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
+          </a>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</nav>
+
+<div id="modalSearch" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">サイト内検索</h4>
+      </div>
+      <div class="modal-body">
+        <div id="search"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ 
+      element: "#search", 
+      showSubResults: true,
+      translations: {
+        placeholder: "キーワードを入力...",
+        clear_search: "消去",
+        load_more: "もっと見る",
+        search_label: "サイト内検索",
+        filters_label: "フィルタ",
+        zero_results: "「[SEARCH_TERM]」は見つかりませんでした",
+        many_results: "[COUNT] 件見つかりました",
+        one_result: "[COUNT] 件見つかりました",
+        alt_search: "「[SEARCH_TERM]」の代わりに「[ORIGINAL_SEARCH_TERM]」の結果を表示しています",
+        search_suggestion: "もしかして: [SEARCH_TERM] ?",
+        searching: "検索中..."
+      }
+    });
+  });
+</script>
+
+<style>
+  /* モーダル内で検索結果を見やすくする調整 */
+  #search { --pagefind-ui-primary: #008aff; --pagefind-ui-text: #333; }
+  .pagefind-ui__result-link { color: #008aff !important; font-weight: bold; }
+</style>

@@ -1,0 +1,524 @@
+
+
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+ 
+
+
+      <title>Markdownの書き方：初心者の自分が見直すためのマニュアル - </title>
+
+  <meta name="description" content="ブログを書くのにMarkdown（マークダウン）という記法を使うようにしている。
+最初は「#」とか「*」を打つのに戸惑ったけど、慣れるとキーボードだけでスラスラ書けて気持ちがいい。
+ただ、しばらく書かないと「あれ、どう書くんだっけ？」となりそうなので、よく使うものだけをまとめておく。">
+  <meta name="author" content="深海 航"/><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "氷山の一角日記 Frozen Terminal",
+    
+    "url": "http:\/\/localhost:1313\/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "http:\/\/localhost:1313\/"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "http:\/\/localhost:1313\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "http:\/\/localhost:1313\/post\/study\/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB\/",
+          "name": "Markdownの書き方：初心者の自分が見直すためのマニュアル"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : "深海 航"
+  },
+  "headline": "Markdownの書き方：初心者の自分が見直すためのマニュアル",
+  "description" : "ブログを書くのにMarkdown（マークダウン）という記法を使うようにしている。 最初は「#」とか「*」を打つのに戸惑ったけど、慣れるとキーボードだけでスラスラ書けて気持ちがいい。\nただ、しばらく書かないと「あれ、どう書くんだっけ？」となりそうなので、よく使うものだけをまとめておく。\n",
+  "inLanguage" : "en",
+  "wordCount":  984 ,
+  "datePublished" : "2026-02-12T00:00:00\u002b00:00",
+  "dateModified" : "2026-02-12T00:00:00\u002b00:00",
+  "image" : "http:\/\/localhost:1313\/img\/avatar-icon.png",
+  "keywords" : [ "備忘録, マニュアル, ツール" ],
+  "mainEntityOfPage" : "http:\/\/localhost:1313\/post\/study\/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "http:\/\/localhost:1313\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "http:\/\/localhost:1313\/img\/avatar-icon.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
+
+
+<meta property="og:title" content="Markdownの書き方：初心者の自分が見直すためのマニュアル" />
+<meta property="og:description" content="ブログを書くのにMarkdown（マークダウン）という記法を使うようにしている。
+最初は「#」とか「*」を打つのに戸惑ったけど、慣れるとキーボードだけでスラスラ書けて気持ちがいい。
+ただ、しばらく書かないと「あれ、どう書くんだっけ？」となりそうなので、よく使うものだけをまとめておく。">
+<meta property="og:image" content="http://localhost:1313/img/avatar-icon.png" />
+<meta property="og:url" content="http://localhost:1313/post/study/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="氷山の一角日記 Frozen Terminal" />
+
+  <meta name="twitter:title" content="Markdownの書き方：初心者の自分が見直すためのマニュアル" />
+  <meta name="twitter:description" content="ブログを書くのにMarkdown（マークダウン）という記法を使うようにしている。
+最初は「#」とか「*」を打つのに戸惑ったけど、慣れるとキーボードだけでスラスラ書けて気持ちがいい。
+ただ、しばらく書かないと「あれ、どう書くんだっけ？」となりそうなので、よく使うものだけをまとめておく。">
+  <meta name="twitter:image" content="http://localhost:1313/img/avatar-icon.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@https://x.com/MSgbeGGF0Q87402" />
+  <meta name="twitter:creator" content="@https://x.com/MSgbeGGF0Q87402" />
+  <link href='http://localhost:1313/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta name="generator" content="Hugo 0.156.0">
+  <link rel="alternate" href="http://localhost:1313/index.xml" type="application/rss+xml" title="氷山の一角日記 Frozen Terminal"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" integrity="sha384-5TcZemv2l/9On385z///+d7MSYlvIEw9FuZTIdZ14vJLqWphw7e7ZPuOiCHJcFCP" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/brands.css" integrity="sha384-+eXGm6TmVoCZR1gX03US+L++L2mJIfOvp2X0+luTuEktXaF5F+e3zn0sO0HBvOyT" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/fontawesome.css" integrity="sha384-B5nyPZa7e84uCJEYHtevCdVYtQosWsbDSRtq3cy/jeSVtQW05GL8CKXO7waXsjPK" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/regular.css" integrity="sha384-V71z/A/p/DGaZAryHhiSXRQj8HdQmK2nBgL2bX23MGD+h6ZKpyxOO76f5eSXmIaj" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/solid.css" integrity="sha384-1IIShlrK5iYgvS7OAgIH3prz4RAFP7hHZ2MaLIb9l3+trFwwnw/NdCWcUHlymZDU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/svg.css" integrity="sha384-iBa7uugTOHXqQ2ngvDYJyKrPPQbd9n2P3EQe+o/0+HZe5TNvV+LO5X0lLLUrXLHP" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/svg-with-js.css" integrity="sha384-STWnS5AGz6M2YxsnGAd536EqcE2y+ktGovMMuhtXLsCBtl7lujeQj2eN4eDxa57x" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/v4-font-face.css" integrity="sha384-fH83IkgQi7kturzlxpXfNdsR8aUOcqj5HUORRVnSvJgObZkIw6aqKAaQx20IWyB/" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/v4-shims.css" integrity="sha384-cCODJHSivNBsaHei/8LC0HUD58kToSbDU+xT7Rs51BO1v/IvgT/uM0W6xMoUqKfn" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/v5-font-face.css" integrity="sha384-atSdF89mIn15dv+o2LKkDM6mCh3hwh6A7mwZ6F2it/kenqZbMu+QW/ye1OG4XSWV" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"><link rel="stylesheet" href="http://localhost:1313/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="http://localhost:1313/css/syntax.css" /><link rel="stylesheet" href="http://localhost:1313/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://localhost:1313/">氷山の一角日記 Frozen Terminal</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li><a title="Home" href="/">Home</a></li>
+          
+        
+          
+            <li><a title="Diary" href="/categories/diary/">Diary</a></li>
+          
+        
+          
+            <li><a title="Log" href="/categories/log/">Log</a></li>
+          
+        
+          
+            <li><a title="Note" href="/categories/note/">Note</a></li>
+          
+        
+          
+            <li><a title="Study" href="/categories/study/">Study</a></li>
+          
+        
+          
+            <li><a title="Game" href="/categories/game/">Game</a></li>
+          
+        
+          
+            <li><a title="Review" href="/categories/review/">Review</a></li>
+          
+        
+          
+            <li><a title="Hobby" href="/categories/hobby/">Hobby</a></li>
+          
+        
+          
+            <li><a title="Think" href="/categories/think/">Think</a></li>
+          
+        
+          
+            <li><a title="About" href="/page/about/">About</a></li>
+          
+        
+          
+            <li><a title="tags" href="/tags/">tags</a></li>
+          
+        
+
+        <li>
+          <a href="#modalSearch" data-toggle="modal" data-target="#modalSearch" style="outline: none;">
+            <span class="hidden-sm hidden-md hidden-lg">検索</span> 
+            <span id="searchGlyph" class="glyphicon glyphicon-search"></span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    
+      <div class="avatar-container">
+        <div class="avatar-img-border">
+          <a title="氷山の一角日記 Frozen Terminal" href="http://localhost:1313/">
+            <img class="avatar-img" src="http://localhost:1313/img/avatar-icon.png" alt="氷山の一角日記 Frozen Terminal" />
+          </a>
+        </div>
+      </div>
+    
+  </div>
+</nav>
+
+<div id="modalSearch" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">サイト内検索</h4>
+      </div>
+      <div class="modal-body">
+        <div id="search"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ 
+      element: "#search", 
+      showSubResults: true,
+      translations: {
+        placeholder: "キーワードを入力...",
+        clear_search: "消去",
+        load_more: "もっと見る",
+        search_label: "サイト内検索",
+        filters_label: "フィルタ",
+        zero_results: "「[SEARCH_TERM]」は見つかりませんでした",
+        many_results: "[COUNT] 件見つかりました",
+        one_result: "[COUNT] 件見つかりました",
+        alt_search: "「[SEARCH_TERM]」の代わりに「[ORIGINAL_SEARCH_TERM]」の結果を表示しています",
+        search_suggestion: "もしかして: [SEARCH_TERM] ?",
+        searching: "検索中..."
+      }
+    });
+  });
+</script>
+
+<style>
+   
+  #search { --pagefind-ui-primary: #008aff; --pagefind-ui-text: #333; }
+  .pagefind-ui__result-link { color: #008aff !important; font-weight: bold; }
+</style>
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              
+                <h1>Markdownの書き方：初心者の自分が見直すためのマニュアル</h1>
+              
+              
+              
+              
+                <span class="post-meta">
+  
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Posted on February 12, 2026
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;深海 航
+    
+  
+  
+</span>
+
+
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p>ブログを書くのにMarkdown（マークダウン）という記法を使うようにしている。
+最初は「#」とか「*」を打つのに戸惑ったけど、慣れるとキーボードだけでスラスラ書けて気持ちがいい。</p>
+<p>ただ、しばらく書かないと「あれ、どう書くんだっけ？」となりそうなので、よく使うものだけをまとめておく。</p>
+<h3 id="よく使う書き方">よく使う書き方</h3>
+<h4 id="見出し">見出し</h4>
+<p>「#」の後には必ず半角スペースを入れる。</p>
+<h2 id="中見出し話の区切り">中見出し（話の区切り）</h2>
+<h3 id="小見出しさらに細かい項目">小見出し（さらに細かい項目）</h3>
+<h4 id="リスト箇取り">リスト（箇取り）</h4>
+<p>「*」か「-」を頭につける。</p>
+<ul>
+<li>項目その1</li>
+<li>項目その2
+<ul>
+<li>さらに一段下げるなら半角スペースを4つ入れる</li>
+</ul>
+</li>
+</ul>
+<h4 id="強調と引用">強調と引用</h4>
+<ul>
+<li><strong>太字</strong>：大事なところに。</li>
+<li>
+<blockquote>
+<p>引用：文頭に「&gt; 」をつける。</p>
+</blockquote>
+<ul>
+<li><strong>注意点</strong>：このブログのテーマ特有の仕様で、引用にすると<strong>文字が自動的に斜め（イタリック）になる。</strong></li>
+<li>斜めにしたくないけれど目立たせたい時は、下の「インラインコード」を使うのが無難。</li>
+</ul>
+</li>
+</ul>
+<h4 id="コードブロックインラインコード">コードブロック・インラインコード</h4>
+<ol>
+<li><strong>インラインコード</strong>: 文中で <code>このように</code> 囲む。
+<ul>
+<li>斜めにならず、背景に色（赤字マーカー風）がつく。</li>
+</ul>
+</li>
+<li><strong>コードブロック</strong>: 複数行の設定などは、バッククォート3つ（```）で上下を囲む。</li>
+</ol>
+<hr>
+<h3 id="覚えておきたいコツ">覚えておきたいコツ</h3>
+<ul>
+<li><strong>空行を挟む</strong>
+見出しの前や段落の間は1行空ける。詰めすぎるとブログ側で正しく表示されない。</li>
+<li><strong>見出しから書く</strong>
+最初に「## 見出し」を並べて骨組みを作ると、話が脱線しにくい。</li>
+<li><strong>全角スペースは徹底排除</strong>
+「# 」や「* 」の後に全角スペースが入るとエラーの元。保存前にDeleteでゴミを掃除する。</li>
+</ul>
+<hr>
+<h3 id="補足なぜテーマによって見た目が変わるのか">【補足】なぜテーマによって見た目が変わるのか？</h3>
+<p>Markdownそのものは「ここは見出し」「ここは引用」という<strong>意味</strong>を決めているだけで、<strong>色や形</strong>までは持っていない。</p>
+<ul>
+<li><strong>Markdown（原稿）</strong>：「ここは引用です」</li>
+<li><strong>テーマ（デザイナー）</strong>：「引用ですね。うちは『斜体にして横線を入れる』ルールで表示します」</li>
+</ul>
+<p>もし将来、Hugoのテーマを変えたら、同じ原稿でも「引用が斜めじゃなくなった！」「見出しが青くなった！」ということが起きる。
+つまり、Markdownは**「中身」<strong>を書き、テーマは</strong>「見せ方」**を担当するという分業制になっている。</p>
+<hr>
+<h3 id="まとめ">まとめ</h3>
+<p>Markdownは「飾り」じゃなくて、思考を「整理」するための道具だと思う。
+凝った装飾はできないけれど、その分、書くことだけに集中できるのがいい。</p>
+<p>これからもこのマニュアルをカンニングしながら、迷わず積み上げていきたい。</p>
+
+
+        
+          <div class="blog-tags">
+            
+              
+              <a href="http://localhost:1313/tags/%E5%82%99%E5%BF%98%E9%8C%B2/">備忘録</a>&nbsp;
+            
+              
+              <a href="http://localhost:1313/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/">マニュアル</a>&nbsp;
+            
+              
+              <a href="http://localhost:1313/tags/%E3%83%84%E3%83%BC%E3%83%AB/">ツール</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="http://localhost:1313/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/" data-toggle="tooltip" data-placement="top" title="人類史の『殻』を破られるタイミングとは">&larr; Previous Post</a>
+            </li>
+          
+          
+            <li class="next">
+              <a href="http://localhost:1313/post/study/lubuntu%E3%81%AEremmina%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3pc%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9/" data-toggle="tooltip" data-placement="top" title="LubuntuのRemminaでメインPCを操作する：設定手順とセキュリティの注意点">Next Post &rarr;</a>
+            </li>
+          
+        </ul>
+      
+
+
+      
+
+    </div>
+  </div>
+</div>
+
+      <footer>
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+		
+		  <a href="https://x.com/MSgbeGGF0Q87402" title="Twitter">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-x-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              深海 航
+            
+          
+
+          &nbsp;&bull;&nbsp;&copy;
+          
+            2026
+          
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="http://localhost:1313/">氷山の一角日記 Frozen Terminal</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="https://gohugo.io">Hugo v0.156.0</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer><script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" integrity="sha384-cMkvdD8LoxVzGF/RPUKAcvmm49FQ0oxwDF3BGKtDXcEc+T1b2N+teh/OJfpU0jr6" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js" integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+<script src="https://code.jquery.com/jquery-3.7.0.slim.min.js" integrity="sha384-w5y/xIeYixWvfM+A1cEbmHPURnvyqmVg5eVENruEdDjcyRLUSNej7512JQGspFUr" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+
+<script src="http://localhost:1313/js/main.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script><script src="http://localhost:1313/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+
+
+
+
+    
+  </body>
+</html>
+

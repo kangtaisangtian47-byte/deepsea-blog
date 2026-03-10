@@ -1,0 +1,39 @@
+{{ define "main" }}
+  <div role="main" class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        
+        {{ if .IsHome }}
+          {{ if .RawContent }}
+            <div class="well">
+              {{ .Content }}
+            </div>
+          {{ end }}
+        {{ end }}
+
+        <div class="posts-list">
+          {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+          {{ $pag := .Paginate $pages }}
+          {{ range $pag.Pages }}
+            {{ partial "post_preview.html" . }}
+          {{ end }}
+        </div>
+
+        {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+          <ul class="pager main-pager">
+            {{ if .Paginator.HasPrev }}
+              <li class="previous">
+                <a href="{{ .Paginator.Prev.URL }}">&larr; {{ i18n "newerPosts" }}</a>
+              </li>
+            {{ end }}
+            {{ if .Paginator.HasNext }}
+              <li class="next">
+                <a href="{{ .Paginator.Next.URL }}">{{ i18n "olderPosts" }} &rarr;</a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ end }}

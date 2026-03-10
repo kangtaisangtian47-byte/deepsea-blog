@@ -1,0 +1,93 @@
+{{ define "main" }}
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+        {{ if .Params.showToc | default true }}
+          {{ if ne .TableOfContents "<nav id=\"TableOfContents\"></nav>" }}
+          <div class="well toc-container" style="background-color: #fcfcfc; border: 1px solid #eee; border-radius: 4px; margin-bottom: 30px; padding: 20px;">
+            <h4 style="margin-top: 0; color: #333; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+              <span class="glyphicon glyphicon-list"></span> INDEX
+            </h4>
+            <nav id="TableOfContents">
+              {{ .TableOfContents }}
+            </nav>
+          </div>
+          {{ end }}
+        {{ end }}
+
+        <div class="post-content">
+          {{ .Content }}
+        </div>
+
+        {{ if .Params.tags }}
+          <div class="blog-tags">
+            {{ range .Params.tags }}
+              <a href="{{"tags" | absLangURL}}/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+            {{ end }}
+          </div>
+        {{ end }}
+
+        {{ if $.Param "socialShare" }}
+            <hr/>
+            <section id="social-share">
+              <div class="list-inline footer-links">
+                {{ partial "share-links" . }}
+              </div>
+            </section>
+        {{ end }}
+      </article>
+
+      {{ if ne .Type "page" }}
+        <ul class="pager blog-pager">
+          {{ if .PrevInSection }}
+            <li class="previous">
+              <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; 前の記事</a>
+            </li>
+          {{ end }}
+          {{ if .NextInSection }}
+            <li class="next">
+              <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">次の記事 &rarr;</a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<style>
+/* 目次のズレ解消・デザイン微調整 */
+#TableOfContents ul {
+  list-style-type: none; 
+  padding-left: 0;      /* 左余白を一度0にしてリセット */
+  margin-left: 0;
+  line-height: 1.6;
+}
+
+#TableOfContents li {
+  margin-bottom: 8px;
+  list-style: none;     /* 念のためここでもリスト記号を消す */
+}
+
+/* 番号と文字を同じ行に強制する設定 */
+#TableOfContents a {
+  color: #337ab7;
+  text-decoration: none;
+  display: inline-block; /* ズレを防ぐための魔法の設定 */
+  vertical-align: middle;
+}
+
+/* 子階層（##の下の###など）の調整 */
+#TableOfContents ul ul {
+  padding-left: 1.5em;   /* 階層の下げ幅 */
+  margin-top: 5px;
+}
+
+#TableOfContents a:hover {
+  text-decoration: underline;
+  color: #008aff;
+}
+</style>
+{{ end }}

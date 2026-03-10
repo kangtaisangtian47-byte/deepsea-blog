@@ -1,0 +1,89 @@
+
+baseURL = 'https://example.com/' # 公開後にURLを書き換え
+languageCode = 'ja-jp'
+title = "氷山の一角日記 Frozen Terminal"
+hasCJKLanguage = true      # 日本語の文字数を正しくカウント
+summaryLength = 100        # 要約の文字数
+enableRobotsTXT = true
+
+# 分類機能（カテゴリーとタグ）を定義
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  title = "氷山の一角日記 Frozen Terminal"
+  subtitle = "Lubuntuから更新中"
+  avatar = "img/avatar-icon.png"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  showNavbarLinks = true
+  showPageDates = true
+  showReadingTime = true
+  bigimg = [{src = "img/header-bg.jpg", desc = ""}]
+  showFullPostContent = false # 全文表示をオフ（一覧形式に）
+  googleAnalytics = "G-XXXXXXXXXX" # 取得したIDを入れる
+  description = "Lubuntuの活用法やゲーム、サブカル、日々の思考を綴る個人ブログ。軽量Linuxと趣味の記録。深海 航(Shinkai Wataru)。"
+  customCSS = ["css/custom.css"]
+  math = true
+
+[params.author]
+  name = "深海 航"
+  twitter = "https://x.com/MSgbeGGF0Q87402"
+  showToc = true # 目次を表示
+
+# ヘッダーメニューの設定
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Diary"
+    url = "/categories/diary/"
+    weight = 2
+
+[[menu.main]]
+    name = "Log"
+    url = "/categories/log/"
+    weight = 3
+
+[[menu.main]]
+    name = "Note"
+    url = "/categories/note/"
+    weight = 4
+
+[[menu.main]]
+    name = "Study"
+    url = "/categories/study/"
+    weight = 5
+
+[[menu.main]]
+    name = "Game"
+    url = "/categories/game/"
+    weight = 6
+
+[[menu.main]]
+    name = "Review"
+    url = "/categories/review/"
+    weight = 7
+
+[[menu.main]]
+    name = "Hobby"
+    url = "/categories/hobby/"
+    weight = 8
+
+[[menu.main]]
+    name = "Think"
+    url = "/categories/think/"
+    weight = 9
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 10
+
+[[menu.main]]
+    name = "tags"
+    url = "/tags/"
+    weight = 11
