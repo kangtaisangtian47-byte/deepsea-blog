@@ -4,6 +4,7 @@ date: 2026-02-13
 categories: ["STUDY"]
 tags: ["Linux", "windows", "ソフト", "リモートデスクトップ", "マニュアル"]
 draft: false
+description: "LubuntuからWindows Proをリモート操作する標準アプリ「Remmina」の設定ガイド。RDPの仕組みやIPアドレスの基礎知識に加え、3389番ポート開放の危険性などセキュリティの必須知識を解説します。PINとパスワードの違いや接続できない時のチェックリストまで、安全で快適なリモート環境構築の備忘録。"
 ---
 
 Lubuntuなどの軽量LinuxからメインのWindowsを操作する場合、標準アプリの「Remmina」が使える。

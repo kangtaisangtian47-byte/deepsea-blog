@@ -3,6 +3,7 @@ title: "Hugo + Cloudflare Pages で作る「資産型ブログ」へのロード
 date: 2026-02-01
 categories: ["note"]
 tags: ["Hugo", "ロードマップ", "ブログ運営", "マニュアル"]
+description: "Lubuntu環境で構築したHugoを、Cloudflare Pagesで世界へ公開する3ステップ。GitHub連携から独自ドメイン取得、Google AdSense審査対策まで。静的サイトならではの爆速な表示速度とメンテナンス性を武器に、無料ブログにはない「消えない資産」としてのブログを構築する最短ルートを整理します。"
 ---
 
 Lubuntu環境でHugoを構築し、将来的な収益化（広告実装）を見据えた最短ルートの一例を整理する。
@@ -56,4 +57,4 @@ Google AdSense等の広告審査を通すための「中身」を作る。
 ## 4. 結論
 
 今の環境は、単なる日記帳ではなく「収益を生む資産」としての土台が完成している。
-あとは、Lubuntuのターミナルから `hugo new` を叩き、趣味趣向をMarkdownにぶつけるだけだ
+あとは、Lubuntuのターミナルから `hugo new` を叩き、趣味趣向をMarkdownに組み込みたい。
