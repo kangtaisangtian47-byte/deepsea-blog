@@ -1,5 +1,5 @@
 
-baseURL = 'https://deepsea-blog.pages.dev/ # 公開後にURLを書き換え
+baseURL = 'https://deepsea-blog.pages.dev/' # 公開後にURLを書き換え
 languageCode = 'ja-jp'
 title = "氷山の一角日記 Frozen Terminal"
 hasCJKLanguage = true      # 日本語の文字数を正しくカウント
