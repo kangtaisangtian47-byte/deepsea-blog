@@ -14,10 +14,7 @@
 
       <title>LubuntuのRemminaでメインPCを操作する：設定手順とセキュリティの注意点 - </title>
 
-  <meta name="description" content="Lubuntuなどの軽量LinuxからメインのWindowsを操作する場合、標準アプリの「Remmina」が使える。
-接続には「RDP」という仕組みが存在する。
-RDP（Remote Desktop Protocol）とは？
-「離れた場所にあるコンピュータを、手元のコンピュータから操作するための通信ルール」">
+  <meta name="description" content="LubuntuからWindows Proをリモート操作する標準アプリ「Remmina」の設定ガイド。RDPの仕組みやIPアドレスの基礎知識に加え、3389番ポート開放の危険性などセキュリティの必須知識を解説します。PINとパスワードの違いや接続できない時のチェックリストまで、安全で快適なリモート環境構築の備忘録。">
   <meta name="author" content="深海 航"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -66,7 +63,7 @@ RDP（Remote Desktop Protocol）とは？
     "name" : "深海 航"
   },
   "headline": "LubuntuのRemminaでメインPCを操作する：設定手順とセキュリティの注意点",
-  "description" : "Lubuntuなどの軽量LinuxからメインのWindowsを操作する場合、標準アプリの「Remmina」が使える。 接続には「RDP」という仕組みが存在する。\nRDP（Remote Desktop Protocol）とは？ 「離れた場所にあるコンピュータを、手元のコンピュータから操作するための通信ルール」\n",
+  "description" : "LubuntuからWindows Proをリモート操作する標準アプリ「Remmina」の設定ガイド。RDPの仕組みやIPアドレスの基礎知識に加え、3389番ポート開放の危険性などセキュリティの必須知識を解説します。PINとパスワードの違いや接続できない時のチェックリストまで、安全で快適なリモート環境構築の備忘録。",
   "inLanguage" : "en",
   "wordCount":  2361 ,
   "datePublished" : "2026-02-13T00:00:00\u002b00:00",
@@ -89,20 +86,14 @@ RDP（Remote Desktop Protocol）とは？
 
 
 <meta property="og:title" content="LubuntuのRemminaでメインPCを操作する：設定手順とセキュリティの注意点" />
-<meta property="og:description" content="Lubuntuなどの軽量LinuxからメインのWindowsを操作する場合、標準アプリの「Remmina」が使える。
-接続には「RDP」という仕組みが存在する。
-RDP（Remote Desktop Protocol）とは？
-「離れた場所にあるコンピュータを、手元のコンピュータから操作するための通信ルール」">
+<meta property="og:description" content="LubuntuからWindows Proをリモート操作する標準アプリ「Remmina」の設定ガイド。RDPの仕組みやIPアドレスの基礎知識に加え、3389番ポート開放の危険性などセキュリティの必須知識を解説します。PINとパスワードの違いや接続できない時のチェックリストまで、安全で快適なリモート環境構築の備忘録。">
 <meta property="og:image" content="http://localhost:1313/img/avatar-icon.png" />
 <meta property="og:url" content="http://localhost:1313/post/study/lubuntu%E3%81%AEremmina%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3pc%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="氷山の一角日記 Frozen Terminal" />
 
   <meta name="twitter:title" content="LubuntuのRemminaでメインPCを操作する：設定手順とセキュリティの注意点" />
-  <meta name="twitter:description" content="Lubuntuなどの軽量LinuxからメインのWindowsを操作する場合、標準アプリの「Remmina」が使える。
-接続には「RDP」という仕組みが存在する。
-RDP（Remote Desktop Protocol）とは？
-「離れた場所にあるコンピュータを、手元のコンピュータから操作するための通信ルール」">
+  <meta name="twitter:description" content="LubuntuからWindows Proをリモート操作する標準アプリ「Remmina」の設定ガイド。RDPの仕組みやIPアドレスの基礎知識に加え、3389番ポート開放の危険性などセキュリティの必須知識を解説します。PINとパスワードの違いや接続できない時のチェックリストまで、安全で快適なリモート環境構築の備忘録。">
   <meta name="twitter:image" content="http://localhost:1313/img/avatar-icon.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@https://x.com/MSgbeGGF0Q87402" />

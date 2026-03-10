@@ -1,11 +1,11 @@
-baseURL = 'https://deepsea-blog.pages.dev/' # 公開後にURLを書き換え
+baseURL = 'https://deepsea-blog.pages.dev/'
 languageCode = 'ja-jp'
 title = "氷山の一角日記 Frozen Terminal"
-hasCJKLanguage = true      # 日本語の文字数を正しくカウント
-summaryLength = 100        # 要約の文字数
+hasCJKLanguage = true      
+summaryLength = 100        
 enableRobotsTXT = true
 
-# 分類機能（カテゴリーとタグ）を定義
+
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -20,19 +20,21 @@ enableRobotsTXT = true
   showPageDates = true
   showReadingTime = true
   bigimg = [{src = "img/header-bg.jpg", desc = ""}]
-  showFullPostContent = false # 全文表示をオフ（一覧形式に）
-  googleAnalytics = "G-XXXXXXXXXX" # 取得したIDを入れる
+  showFullPostContent = false 
+  googleAnalytics = "G-XXXXXXXXXX"
   description = "Lubuntuの活用法やゲーム、サブカル、日々の思考を綴る個人ブログ。軽量Linuxと趣味の記録。深海 航(Shinkai Wataru)。"
   customCSS = ["css/custom.css"]
   math = true
   custom_footer = "<a href='/privacy-policy/'>プライバシーポリシー</a>"
+
+  keywords = ["Lubuntu", "Linux", "ブログ", "深海航", "Frozen Terminal"] # 検索キーワード
+  images = ["img/header-bg.jpg"] # SNSでシェアされた時のデフォルト画像
 
 [params.author]
   name = "深海 航"
   twitter = "https://x.com/MSgbeGGF0Q87402"
   showToc = true # 目次を表示
 
-# ヘッダーメニューの設定
 [[menu.main]]
     name = "Home"
     url = "/"
