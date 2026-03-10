@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ブログ構築 on 氷山の一角日記 Frozen Terminal</title>
-    <link>http://localhost:1313/tags/%E3%83%96%E3%83%AD%E3%82%B0%E6%A7%8B%E7%AF%89/</link>
+    <link>https://deepsea-blog.pages.dev/tags/%E3%83%96%E3%83%AD%E3%82%B0%E6%A7%8B%E7%AF%89/</link>
     <description>Recent content in ブログ構築 on 氷山の一角日記 Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%96%E3%83%AD%E3%82%B0%E6%A7%8B%E7%AF%89/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://deepsea-blog.pages.dev/tags/%E3%83%96%E3%83%AD%E3%82%B0%E6%A7%8B%E7%AF%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>消えた「一覧ページ」の行方。Hugoという職人の手品について</title>
-      <link>http://localhost:1313/post/log/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%80%E8%A6%A7%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%A1%8C%E6%96%B9hugo%E3%81%A8%E3%81%84%E3%81%86%E8%81%B7%E4%BA%BA%E3%81%AE%E6%89%8B%E5%93%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+      <link>https://deepsea-blog.pages.dev/post/log/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%80%E8%A6%A7%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%A1%8C%E6%96%B9hugo%E3%81%A8%E3%81%84%E3%81%86%E8%81%B7%E4%BA%BA%E3%81%AE%E6%89%8B%E5%93%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/log/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%80%E8%A6%A7%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%A1%8C%E6%96%B9hugo%E3%81%A8%E3%81%84%E3%81%86%E8%81%B7%E4%BA%BA%E3%81%AE%E6%89%8B%E5%93%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+      <guid>https://deepsea-blog.pages.dev/post/log/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%80%E8%A6%A7%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%A1%8C%E6%96%B9hugo%E3%81%A8%E3%81%84%E3%81%86%E8%81%B7%E4%BA%BA%E3%81%AE%E6%89%8B%E5%93%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
       <description>&lt;p&gt;カテゴリーメニューを追加し、記事のフロントマターに「note」と書き込んだ。&#xA;ブラウザを見れば、確かにそこには「note」の記事だけが集まった一覧ページが存在している。&lt;/p&gt;&#xA;&lt;p&gt;しかし、VS Codeに戻ってフォルダの海をいくら探しても、その「一覧ページ」という名のファイルはどこにも見当たらない。&lt;/p&gt;</description>
     </item>
   </channel>

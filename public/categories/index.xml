@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 氷山の一角日記 Frozen Terminal</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://deepsea-blog.pages.dev/categories/</link>
     <description>Recent content in Categories on 氷山の一角日記 Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://deepsea-blog.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DIARY</title>
-      <link>http://localhost:1313/categories/diary/</link>
+      <link>https://deepsea-blog.pages.dev/categories/diary/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/diary/</guid>
+      <guid>https://deepsea-blog.pages.dev/categories/diary/</guid>
       <description></description>
     </item>
     <item>
       <title>HOBBY</title>
-      <link>http://localhost:1313/categories/hobby/</link>
+      <link>https://deepsea-blog.pages.dev/categories/hobby/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/hobby/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>THINK</title>
-      <link>http://localhost:1313/categories/think/</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/think/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>STUDY</title>
-      <link>http://localhost:1313/categories/study/</link>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/study/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Log</title>
-      <link>http://localhost:1313/categories/log/</link>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/log/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Game</title>
-      <link>http://localhost:1313/categories/game/</link>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/game/</guid>
+      <guid>https://deepsea-blog.pages.dev/categories/hobby/</guid>
       <description></description>
     </item>
     <item>
       <title>Note</title>
-      <link>http://localhost:1313/categories/note/</link>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/note/</guid>
+      <link>https://deepsea-blog.pages.dev/categories/note/</link>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://deepsea-blog.pages.dev/categories/note/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>THINK</title>
+      <link>https://deepsea-blog.pages.dev/categories/think/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://deepsea-blog.pages.dev/categories/think/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>STUDY</title>
+      <link>https://deepsea-blog.pages.dev/categories/study/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://deepsea-blog.pages.dev/categories/study/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Log</title>
+      <link>https://deepsea-blog.pages.dev/categories/log/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://deepsea-blog.pages.dev/categories/log/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>https://deepsea-blog.pages.dev/categories/game/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://deepsea-blog.pages.dev/categories/game/</guid>
       <description></description>
     </item>
     <item>
       <title>Review</title>
-      <link>http://localhost:1313/categories/review/</link>
+      <link>https://deepsea-blog.pages.dev/categories/review/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/review/</guid>
+      <guid>https://deepsea-blog.pages.dev/categories/review/</guid>
       <description></description>
     </item>
   </channel>
