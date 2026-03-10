@@ -25,6 +25,7 @@ enableRobotsTXT = true
   description = "Lubuntuの活用法やゲーム、サブカル、日々の思考を綴る個人ブログ。軽量Linuxと趣味の記録。深海 航(Shinkai Wataru)。"
   customCSS = ["css/custom.css"]
   math = true
+  custom_footer = "<a href='/privacy-policy/'>プライバシーポリシー</a>"
 
 [params.author]
   name = "深海 航"
@@ -86,3 +87,8 @@ enableRobotsTXT = true
     name = "tags"
     url = "/tags/"
     weight = 11
+
+[[menu.footer]]
+    name = "プライバシーポリシー"
+    url = "/privacy-policy/"
+    weight = 12
