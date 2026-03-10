@@ -1,7 +1,8 @@
 ---
 title: "About Me"
-date: 2026-02-19
-draft: false  # ←ここを必ず false にしてください
+date: 2024-01-19
+draft: false
+showToc: false
 ---
 
 ## 自己紹介
