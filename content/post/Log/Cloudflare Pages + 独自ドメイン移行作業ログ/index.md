@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Pages + 独自ドメイン移行作業ログ"
-date: 2026-03-14
+date: 2026-03-13
 categories: ["Log"]
 tags: ["Hugo", "Cloudflare", "サーバー", "マニュアル"]
 description: "Hugoで構築したブログをCloudflare Pagesの独自ドメイン環境へ移行した際のDNS設定およびトラブルシューティングの記録。"
