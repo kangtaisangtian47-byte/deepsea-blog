@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>マニュアル on 氷山の一角日記 Frozen Terminal</title>
-    <link>http://localhost:1313/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
-    <description>Recent content in マニュアル on 氷山の一角日記 Frozen Terminal</description>
+    <title>マニュアル on 氷山の一角ブログ Frozen Terminal</title>
+    <link>http://localhost:41337/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
+    <description>Recent content in マニュアル on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41337/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloudflare Pages &#43; 独自ドメイン移行作業ログ</title>
-      <link>http://localhost:1313/post/log/cloudflare-pages-&#43;-%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E7%A7%BB%E8%A1%8C%E4%BD%9C%E6%A5%AD%E3%83%AD%E3%82%B0/</link>
+      <link>http://localhost:41337/post/log/cloudflare-pages-&#43;-%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E7%A7%BB%E8%A1%8C%E4%BD%9C%E6%A5%AD%E3%83%AD%E3%82%B0/</link>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/log/cloudflare-pages-&#43;-%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E7%A7%BB%E8%A1%8C%E4%BD%9C%E6%A5%AD%E3%83%AD%E3%82%B0/</guid>
+      <guid>http://localhost:41337/post/log/cloudflare-pages-&#43;-%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E7%A7%BB%E8%A1%8C%E4%BD%9C%E6%A5%AD%E3%83%AD%E3%82%B0/</guid>
       <description>&lt;h3 id=&#34;1-ドメイン取得とdns初期設定&#34;&gt;1. ドメイン取得とDNS初期設定&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;レジストラで独自ドメインを取得。&lt;/li&gt;&#xA;&lt;li&gt;Cloudflareへドメインを追加し、ネームサーバーを切り替え。&lt;/li&gt;&#xA;&lt;li&gt;Search Console認証用のTXTレコードをDNSに登録し、所有権を確認。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-静的サイトジェネレーター側の構成変更&#34;&gt;2. 静的サイトジェネレーター側の構成変更&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;設定ファイル（&lt;code&gt;hugo.toml&lt;/code&gt; 等）の &lt;code&gt;baseURL&lt;/code&gt; を新ドメインに書き換え。&lt;/li&gt;&#xA;&lt;li&gt;リポジトリを更新し、ホスティング先へデプロイ。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-ホスティング側カスタムドメイン紐付け&#34;&gt;3. ホスティング側カスタムドメイン紐付け&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;管理画面からカスタムドメインを追加。&lt;/li&gt;&#xA;&lt;li&gt;ステータスが &lt;code&gt;Verifying&lt;/code&gt;（検証中）から進まない問題が発生。&lt;/li&gt;&#xA;&lt;li&gt;DNSレコード内の古い「タイプA」レコード（初期設定のIPアドレス）を削除。&lt;/li&gt;&#xA;&lt;li&gt;替わりにルートドメインをホスティング側のドメインへ向けるCNAMEレコードを手動追加。&lt;/li&gt;&#xA;&lt;li&gt;ステータスが &lt;code&gt;Active&lt;/code&gt; に移行。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;4-インデックス最適化&#34;&gt;4. インデックス最適化&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Search Consoleにて &lt;code&gt;sitemap.xml&lt;/code&gt; を送信。&lt;/li&gt;&#xA;&lt;li&gt;ドメイン浸透待ちによる一時的なエラーを確認。24時間以内の反映を待機。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;&#xA;&lt;p&gt;ドメインの紐付けにおいて、デフォルトで生成されるAレコードと追加したCNAMEが競合し、検証が止まる現象に時間を取られた。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugoをビルド・公開する際のコマンド備忘録</title>
-      <link>http://localhost:1313/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</link>
+      <link>http://localhost:41337/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</guid>
+      <guid>http://localhost:41337/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</guid>
       <description>&lt;p&gt;LubuntuでHugoブログを運営する際に、表示の更新や公開作業で迷わないためのコマンド集。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-執筆プレビュー確認用&#34;&gt;1. 執筆・プレビュー（確認用）&lt;/h2&gt;&#xA;&lt;p&gt;記事を書きながらブラウザでリアルタイム確認するためのコマンド。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;hugo server -D&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;下書き（draft: true）の記事も含めて表示されます。ブラウザで &lt;strong&gt;http://localhost:1313&lt;/strong&gt; を開いて確認する。&lt;/p&gt;</description>
     </item>
     <item>
       <title>LubuntuのRemminaでメインPCを操作する：設定手順とセキュリティの注意点</title>
-      <link>http://localhost:1313/post/study/lubuntu%E3%81%AEremmina%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3pc%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9/</link>
+      <link>http://localhost:41337/post/study/lubuntu%E3%81%AEremmina%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3pc%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/study/lubuntu%E3%81%AEremmina%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3pc%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9/</guid>
+      <guid>http://localhost:41337/post/study/lubuntu%E3%81%AEremmina%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3pc%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9/</guid>
       <description>&lt;p&gt;Lubuntuなどの軽量LinuxからメインのWindowsを操作する場合、標準アプリの「Remmina」が使える。&#xA;接続には「RDP」という仕組みが存在する。&lt;/p&gt;&#xA;&lt;h3 id=&#34;rdpremote-desktop-protocolとは&#34;&gt;RDP（Remote Desktop Protocol）とは？&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;「離れた場所にあるコンピュータを、手元のコンピュータから操作するための通信ルール」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdownの書き方：初心者の自分が見直すためのマニュアル</title>
-      <link>http://localhost:1313/post/study/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
+      <link>http://localhost:41337/post/study/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/study/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</guid>
+      <guid>http://localhost:41337/post/study/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</guid>
       <description>&lt;p&gt;ブログを書くのにMarkdown（マークダウン）という記法を使うようにしている。&#xA;最初は「#」とか「*」を打つのに戸惑ったけど、慣れるとキーボードだけでスラスラ書けて気持ちがいい。&lt;/p&gt;&#xA;&lt;p&gt;ただ、しばらく書かないと「あれ、どう書くんだっけ？」となりそうなので、よく使うものだけをまとめておく。&lt;/p&gt;</description>
     </item>
     <item>
       <title>夏の2000m級で野営するために。気温の法則と準備した装備のまとめ</title>
-      <link>http://localhost:1313/post/study/%E5%A4%8F%E3%81%AE2000m%E7%B4%9A%E3%81%A7%E9%87%8E%E5%96%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E6%B8%A9%E3%81%AE%E6%B3%95%E5%89%87%E3%81%A8%E6%BA%96%E5%82%99%E3%81%97%E3%81%9F%E8%A3%85%E5%82%99%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/</link>
+      <link>http://localhost:41337/post/study/%E5%A4%8F%E3%81%AE2000m%E7%B4%9A%E3%81%A7%E9%87%8E%E5%96%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E6%B8%A9%E3%81%AE%E6%B3%95%E5%89%87%E3%81%A8%E6%BA%96%E5%82%99%E3%81%97%E3%81%9F%E8%A3%85%E5%82%99%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/study/%E5%A4%8F%E3%81%AE2000m%E7%B4%9A%E3%81%A7%E9%87%8E%E5%96%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E6%B8%A9%E3%81%AE%E6%B3%95%E5%89%87%E3%81%A8%E6%BA%96%E5%82%99%E3%81%97%E3%81%9F%E8%A3%85%E5%82%99%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/</guid>
+      <guid>http://localhost:41337/post/study/%E5%A4%8F%E3%81%AE2000m%E7%B4%9A%E3%81%A7%E9%87%8E%E5%96%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E6%B8%A9%E3%81%AE%E6%B3%95%E5%89%87%E3%81%A8%E6%BA%96%E5%82%99%E3%81%97%E3%81%9F%E8%A3%85%E5%82%99%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/</guid>
       <description>&lt;p&gt;ふと少し高めの山に泊まってみたいと思った。&lt;/p&gt;&#xA;&lt;p&gt;標高2000mの世界は、地上の夏とは全く別物と考えたほうが良さそうだ。初心者の僕が調べた、気温のルールと必要な装備を整理しておく。&lt;/p&gt;&#xA;&lt;h2 id=&#34;知っておくべき100mで06度の法則&#34;&gt;知っておくべき「100mで0.6度」の法則&lt;/h2&gt;&#xA;&lt;p&gt;山には、標高が上がるほど気温が下がるという明確な決まりがある。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo &#43; Cloudflare Pages で作る「資産型ブログ」へのロードマップ</title>
-      <link>http://localhost:1313/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</link>
+      <link>http://localhost:41337/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</guid>
+      <guid>http://localhost:41337/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</guid>
       <description>&lt;p&gt;Lubuntu環境でHugoを構築し、将来的な収益化（広告実装）を見据えた最短ルートの一例を整理する。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-現状の構成ベースキャンプ&#34;&gt;1. 現状の構成（ベースキャンプ）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;エンジン&lt;/strong&gt;: Hugo (Static Site Generator)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;テーマ&lt;/strong&gt;: Hugoから&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;環境&lt;/strong&gt;: Lubuntu / Gitによる管理&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;執筆&lt;/strong&gt;: Markdown形式&lt;/p&gt;</description>
     </item>
   </channel>

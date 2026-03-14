@@ -1,6 +1,6 @@
 baseURL = "https://iceberg-diary.com/"
 languageCode = 'ja-jp'
-title = "氷山の一角日記 Frozen Terminal"
+title = "氷山の一角ブログ Frozen Terminal"
 hasCJKLanguage = true      
 summaryLength = 100        
 enableRobotsTXT = true
@@ -21,7 +21,7 @@ enableRobotsTXT = true
   bigimg = [{src = "/img/header-bg.jpg", desc = ""}]
   showFullPostContent = false 
   googleAnalytics = "G-XXXXXXXXXX"
-  description = "Lubuntuの活用法やゲーム、サブカル、日々の思考を綴る個人ブログ。軽量Linuxと趣味の記録。深海 航(Shinkai Wataru)。"
+  description = "Lubuntuの活用法やゲーム、サブカル、日々の思考を綴る個人ブログ。軽量Linuxと趣味の記録と日記。深海 航(Shinkai Wataru)。"
   customCSS = ["css/custom.css"]
   math = true
   custom_footer = "<a href='/privacy-policy/'>プライバシーポリシー</a>"
