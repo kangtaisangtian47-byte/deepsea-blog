@@ -1,13 +1,13 @@
 {{ define "main" }}
-<div class="container" role="main">
+<div class="container note-style-container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
         
         {{ if .Params.showToc | default true }}
           {{ if ne .TableOfContents "<nav id=\"TableOfContents\"></nav>" }}
-          <div class="well toc-container" style="background-color: #fcfcfc; border: 1px solid #eee; border-radius: 4px; margin-bottom: 30px; padding: 20px;">
-            <h4 style="margin-top: 0; color: #333; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+          <div class="well toc-container">
+            <h4 class="toc-title">
               <span class="glyphicon glyphicon-list"></span> INDEX
             </h4>
             <nav id="TableOfContents">
@@ -43,12 +43,12 @@
         <ul class="pager blog-pager">
           {{ if .PrevInSection }}
             <li class="previous">
-              <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; 前の記事</a>
+              <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; PREV</a>
             </li>
           {{ end }}
           {{ if .NextInSection }}
             <li class="next">
-              <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">次の記事 &rarr;</a>
+              <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">NEXT &rarr;</a>
             </li>
           {{ end }}
         </ul>
@@ -58,36 +58,82 @@
 </div>
 
 <style>
-/* 目次のズレ解消・デザイン微調整 */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans JP", sans-serif !important;
+    color: #333333 !important;
+    background-color: #ffffff !important;
+}
+
+.post-content {
+    font-size: 18px !important;
+    line-height: 2.0 !important;
+    letter-spacing: 0.03em !important;
+}
+
+.post-content p {
+    margin-bottom: 2.5rem !important;
+}
+
+@media (min-width: 1200px) {
+    .note-style-container {
+        max-width: 1200px !important;
+        margin: 0 auto !important;
+    }
+}
+
+.toc-container {
+    background-color: #f8f9fa !important;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 25px !important;
+    margin-bottom: 40px !important;
+}
+
+.toc-title {
+    margin-top: 0 !important;
+    color: #333 !important;
+    border-bottom: 1px solid #ddd !important;
+    padding-bottom: 10px !important;
+    font-size: 1.1rem !important;
+}
+
 #TableOfContents ul {
-  list-style-type: none; 
-  padding-left: 0;      /* 左余白を一度0にしてリセット */
-  margin-left: 0;
-  line-height: 1.6;
+    list-style-type: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+
+#TableOfContents ul ul {
+    padding-left: 1.5em !important;
+    margin-top: 5px !important;
 }
 
 #TableOfContents li {
-  margin-bottom: 8px;
-  list-style: none;     /* 念のためここでもリスト記号を消す */
+    margin-bottom: 10px !important;
 }
 
-/* 番号と文字を同じ行に強制する設定 */
 #TableOfContents a {
-  color: #337ab7;
-  text-decoration: none;
-  display: inline-block; /* ズレを防ぐための魔法の設定 */
-  vertical-align: middle;
-}
-
-/* 子階層（##の下の###など）の調整 */
-#TableOfContents ul ul {
-  padding-left: 1.5em;   /* 階層の下げ幅 */
-  margin-top: 5px;
+    color: #337ab7 !important;
+    text-decoration: none !important;
 }
 
 #TableOfContents a:hover {
-  text-decoration: underline;
-  color: #008aff;
+    text-decoration: underline !important;
+}
+
+.post-content h2 {
+    font-size: 2.2rem !important;
+    font-weight: bold !important;
+    margin-top: 4rem !important;
+    margin-bottom: 1.5rem !important;
+    border-bottom: 1px solid #eee !important;
+    padding-bottom: 0.5rem !important;
+}
+
+.post-content h3 {
+    font-size: 1.8rem !important;
+    font-weight: bold !important;
+    margin-top: 3rem !important;
 }
 </style>
 {{ end }}

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ロードマップ on 氷山の一角ブログ Frozen Terminal</title>
-    <link>http://localhost:41337/tags/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</link>
+    <link>http://localhost:1313/tags/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</link>
     <description>Recent content in ロードマップ on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:41337/tags/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo &#43; Cloudflare Pages で作る「資産型ブログ」へのロードマップ</title>
-      <link>http://localhost:41337/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</link>
+      <link>http://localhost:1313/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41337/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</guid>
+      <guid>http://localhost:1313/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</guid>
       <description>&lt;p&gt;Lubuntu環境でHugoを構築し、将来的な収益化（広告実装）を見据えた最短ルートの一例を整理する。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-現状の構成ベースキャンプ&#34;&gt;1. 現状の構成（ベースキャンプ）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;エンジン&lt;/strong&gt;: Hugo (Static Site Generator)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;テーマ&lt;/strong&gt;: Hugoから&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;環境&lt;/strong&gt;: Lubuntu / Gitによる管理&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;執筆&lt;/strong&gt;: Markdown形式&lt;/p&gt;</description>
     </item>
   </channel>
