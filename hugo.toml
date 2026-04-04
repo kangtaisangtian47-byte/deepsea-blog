@@ -92,3 +92,6 @@ enableRobotsTXT = true
     name = "プライバシーポリシー"
     url = "/privacy-policy/"
     weight = 12
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
