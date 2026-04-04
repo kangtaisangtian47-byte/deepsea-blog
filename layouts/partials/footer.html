@@ -1,4 +1,4 @@
-  {{ if eq .Type "page" }}
+{{ if eq .Type "page" }}
     {{ partial "page_meta.html" . }}
   {{ end }}
   {{- if and (not (isset .Site.Params "author")) (isset .Site "author") -}}
@@ -19,11 +19,11 @@
           {{ range .Site.Data.beautifulhugo.social.social_icons }}
             {{- if isset $.Site.Params.author .id }}
               <li>
-		{{ if or ( hasPrefix ( index $.Site.Params.author .id ) "http://" ) ( hasPrefix ( index $.Site.Params.author .id ) "https://" ) }}
-		  <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf "%s" (index $.Site.Params.author .id) }}" title="{{ .title }}">
-		{{ else }}
-		  <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf .url (index $.Site.Params.author .id) }}" title="{{ .title }}">
-		{{ end }}
+    {{ if or ( hasPrefix ( index $.Site.Params.author .id ) "http://" ) ( hasPrefix ( index $.Site.Params.author .id ) "https://" ) }}
+      <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf "%s" (index $.Site.Params.author .id) }}" title="{{ .title }}">
+    {{ else }}
+      <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf .url (index $.Site.Params.author .id) }}" title="{{ .title }}">
+    {{ end }}
                   <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>
                     <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
@@ -66,11 +66,15 @@
             <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
           {{ end }}
         </p>
-        <!-- Please don't remove this, keep my open source work credited :) -->
         <p class="credits theme-by text-muted">
           {{ i18n "poweredBy" . | safeHTML }}
           {{ if $.GitInfo }}&nbsp;&bull;&nbsp;[<a href="{{ .Site.Params.commit }}{{ .GitInfo.Hash }}">{{ substr .GitInfo.Hash 0 8 }}</a>]{{ end }}
         </p>
+
+        <p class="credits text-muted text-center" style="margin-top: 10px;">
+          <a href="{{ "privacy-policy" | relURL }}">プライバシーポリシー</a>
+        </p>
+
       </div>
     </div>
   </div>
@@ -107,7 +111,6 @@
 {{- end -}}
 <script src="{{ "js/load-photoswipe.js" | absURL }}"></script>
 
-<!-- Google Custom Search Engine -->
 {{ if .Site.Params.gcse }}
 <script>
   (function() {
@@ -123,7 +126,6 @@
 {{ end }}
 
 {{ if .Site.Params.piwik }}
-<!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(["trackPageView"]);
@@ -138,16 +140,12 @@
   })();
 </script>
 <noscript>
-<!-- Piwik Image Tracker -->
 <img src="http://{{ .Site.Params.piwik.server }}/piwik.php?idsite={{ .Site.Params.piwik.id }}&amp;rec=1" style="border:0" alt="" />
-<!-- End Piwik -->
 </noscript>
-<!-- End Piwik Code -->
 {{ end }}
 
 
 {{ if and .Site.Params.delayDisqus .Site.Config.Services.Disqus.Shortname }}
-<!-- Delayed Disqus -->
 <script type="text/javascript">
 $(function(){
   $('#show-comments').on('click', function(){
@@ -167,7 +165,6 @@ $(function(){
       
 </script>
 <script id="dsq-count-scr" src="//{{ .Site.Config.Services.Disqus.Shortname }}.disqus.com/count.js" async></script>
-<!-- End Delayed Disqus -->
 {{ end }}
 
 {{- partial "footer_custom.html" . }}
