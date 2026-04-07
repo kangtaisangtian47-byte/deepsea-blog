@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>思考 on 氷山の一角ブログ Frozen Terminal</title>
-    <link>http://localhost:1313/tags/%E6%80%9D%E8%80%83/</link>
+    <link>https://iceberg-diary.com/tags/%E6%80%9D%E8%80%83/</link>
     <description>Recent content in 思考 on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iceberg-diary.com/tags/%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>フローではなくストック。ブログを思考の置き場にする</title>
-      <link>http://localhost:1313/post/think/%E3%83%95%E3%83%AD%E3%83%BC%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%80%9D%E8%80%83%E3%81%AE%E7%BD%AE%E3%81%8D%E5%A0%B4%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <link>https://iceberg-diary.com/post/think/%E3%83%95%E3%83%AD%E3%83%BC%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%80%9D%E8%80%83%E3%81%AE%E7%BD%AE%E3%81%8D%E5%A0%B4%E3%81%AB%E3%81%99%E3%82%8B/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/think/%E3%83%95%E3%83%AD%E3%83%BC%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%80%9D%E8%80%83%E3%81%AE%E7%BD%AE%E3%81%8D%E5%A0%B4%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <guid>https://iceberg-diary.com/post/think/%E3%83%95%E3%83%AD%E3%83%BC%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%80%9D%E8%80%83%E3%81%AE%E7%BD%AE%E3%81%8D%E5%A0%B4%E3%81%AB%E3%81%99%E3%82%8B/</guid>
       <description>&lt;p&gt;SNSのタイムラインは見ていて楽しいが、書いた端から流れて消えていく。&lt;/p&gt;&#xA;&lt;p&gt;その場のノリで言葉を投げる「フロー」の気楽さもいいけれど、後で自分で読み返したり、知識として取り出したりするには少し不便だ。&lt;/p&gt;&#xA;&lt;p&gt;だから、このブログは「ストック」の場所として使いたい。&lt;/p&gt;</description>
     </item>
     <item>
       <title>人類史の『殻』を破られるタイミングとは</title>
-      <link>http://localhost:1313/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</link>
+      <link>https://iceberg-diary.com/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</link>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</guid>
+      <guid>https://iceberg-diary.com/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</guid>
       <description>&lt;p&gt;人類の歴史の中でどこが一番重要だろう、と考えると、いろいろ候補は出てくる。&#xA;言葉や都市が生まれたウル・ウルク期とか、倫理の原型ができた出エジプトとか。どれも今の自分たちの土台になっているのは間違いない。&lt;/p&gt;&#xA;&lt;p&gt;特に、出エジプトで確立された「唯一神」という概念は決定的だった。それ以前にも宗教や信仰はあったけれど、絶対的な一柱の神と、それに基づく普遍的な「法」や「倫理」という形を民衆が共有したことで、人類の精神構造は一つ上のステージに上がった。&lt;/p&gt;</description>
     </item>
   </channel>

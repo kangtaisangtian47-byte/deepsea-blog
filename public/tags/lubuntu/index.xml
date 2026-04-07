@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lubuntu on 氷山の一角ブログ Frozen Terminal</title>
-    <link>http://localhost:1313/tags/lubuntu/</link>
+    <link>https://iceberg-diary.com/tags/lubuntu/</link>
     <description>Recent content in Lubuntu on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/lubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iceberg-diary.com/tags/lubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windowsが動かないノートPCにLubuntuを入れた結果。一般ユーザー視点のメリット・デメリット</title>
-      <link>http://localhost:1313/post/log/windows%E3%81%8C%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%83%8E%E3%83%BC%E3%83%88pc%E3%81%ABlubuntu%E3%82%92%E5%85%A5%E3%82%8C%E3%81%9F%E7%B5%90%E6%9E%9C%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A6%96%E7%82%B9%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/</link>
+      <link>https://iceberg-diary.com/post/log/windows%E3%81%8C%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%83%8E%E3%83%BC%E3%83%88pc%E3%81%ABlubuntu%E3%82%92%E5%85%A5%E3%82%8C%E3%81%9F%E7%B5%90%E6%9E%9C%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A6%96%E7%82%B9%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/log/windows%E3%81%8C%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%83%8E%E3%83%BC%E3%83%88pc%E3%81%ABlubuntu%E3%82%92%E5%85%A5%E3%82%8C%E3%81%9F%E7%B5%90%E6%9E%9C%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A6%96%E7%82%B9%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/</guid>
+      <guid>https://iceberg-diary.com/post/log/windows%E3%81%8C%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%83%8E%E3%83%BC%E3%83%88pc%E3%81%ABlubuntu%E3%82%92%E5%85%A5%E3%82%8C%E3%81%9F%E7%B5%90%E6%9E%9C%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A6%96%E7%82%B9%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/</guid>
       <description>&lt;p&gt;Windows 10や11を入れた状態では、重すぎて使い物にならなかったノートPCがある。&#xA;これを活用するために、軽量なLinuxディストリビューションである&lt;strong&gt;Lubuntu&lt;/strong&gt;をインストールした。&lt;/p&gt;&#xA;&lt;p&gt;プログラマーではない一般ユーザーの視点で、実際に使って感じたメリットとデメリット、導入時の注意点をまとめる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>なぜ私は今、あえてLubuntuを使っているのか</title>
-      <link>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</link>
+      <link>https://iceberg-diary.com/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</guid>
+      <guid>https://iceberg-diary.com/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</guid>
       <description>&lt;p&gt;世の中は、最新のOSと高価なスペックのPCで溢れている。&#xA;そんな中、私はあえて「Lubuntu」という軽量なLinuxを選んだ。&lt;/p&gt;&#xA;&lt;p&gt;「貧乏でもやれるか？」という問いに対して、Lubuntuは無言で首を縦に振ってくれる。&#xA;古いPCに命を吹き込み、余計な装飾を削ぎ落としたそのデスクトップ環境は、まるで深海のように静かだ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>VS CodeをLubuntuに入れたら、中古PCがコックピットになった</title>
-      <link>http://localhost:1313/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</link>
+      <link>https://iceberg-diary.com/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</guid>
+      <guid>https://iceberg-diary.com/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</guid>
       <description>&lt;p&gt;Lubuntuという軽量な土台の上に、Visual Studio Code（VS Code）をインストールした。&#xA;その瞬間、単なる「古いパソコン」は、世界へ繋がる「コックピット」へと進化した。&lt;/p&gt;&#xA;&lt;p&gt;左側にはブログの構造が並び、下側にはターミナルが鎮座する。&#xA;Markdownで文字を打てば、右側でリアルタイムに記事が組み上がっていく。&lt;/p&gt;</description>
     </item>
     <item>
       <title>なぜ私はnoteではなくHugoを選んだのか？Lubuntuで始めるミニマルブログ運営術</title>
-      <link>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</link>
+      <link>https://iceberg-diary.com/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</link>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</guid>
+      <guid>https://iceberg-diary.com/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</guid>
       <description>&lt;p&gt;ブログを始めるにあたって、noteやWordPressといった選択肢がある中で、あえて「Hugo」という静的サイトジェネレーターを選んだ。その理由と、自分なりの運用ルールをまとめておく。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-なぜhugoなのか&#34;&gt;1. なぜ「Hugo」なのか？&lt;/h2&gt;&#xA;&lt;p&gt;最大の理由は、&lt;strong&gt;Lubuntuという中古PCでの軽量環境との親和性&lt;/strong&gt;だ。&lt;/p&gt;</description>
     </item>
   </channel>
