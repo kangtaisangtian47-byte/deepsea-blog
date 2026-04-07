@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>レビュー on 氷山の一角ブログ Frozen Terminal</title>
-    <link>http://localhost:36467/tags/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</link>
+    <link>http://localhost:1313/tags/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</link>
     <description>Recent content in レビュー on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36467/tags/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PS1版『ドラゴンクエストIV 導かれし者たち』クリアレビュー。章立てが紡ぐ群像劇と、ドット絵が描く旅の空気感</title>
-      <link>http://localhost:36467/post/review/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88iv-%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%AB%A0%E7%AB%8B%E3%81%A6%E3%81%8C%E7%B4%A1%E3%81%90%E7%BE%A4%E5%83%8F%E5%8A%87%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%8F%E6%97%85%E3%81%AE%E7%A9%BA%E6%B0%97%E6%84%9F/</link>
+      <link>http://localhost:1313/post/review/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88iv-%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%AB%A0%E7%AB%8B%E3%81%A6%E3%81%8C%E7%B4%A1%E3%81%90%E7%BE%A4%E5%83%8F%E5%8A%87%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%8F%E6%97%85%E3%81%AE%E7%A9%BA%E6%B0%97%E6%84%9F/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/review/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88iv-%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%AB%A0%E7%AB%8B%E3%81%A6%E3%81%8C%E7%B4%A1%E3%81%90%E7%BE%A4%E5%83%8F%E5%8A%87%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%8F%E6%97%85%E3%81%AE%E7%A9%BA%E6%B0%97%E6%84%9F/</guid>
+      <guid>http://localhost:1313/post/review/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88iv-%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%AB%A0%E7%AB%8B%E3%81%A6%E3%81%8C%E7%B4%A1%E3%81%90%E7%BE%A4%E5%83%8F%E5%8A%87%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%8F%E6%97%85%E3%81%AE%E7%A9%BA%E6%B0%97%E6%84%9F/</guid>
       <description>&lt;h2 id=&#34;独特の空気感を纏ったグラフィック&#34;&gt;独特の空気感を纏ったグラフィック&lt;/h2&gt;&#xA;&lt;p&gt;PS1版をプレイしてまず目を引いたのは、そのグラフィックの質だ。現代のフォトリアルな映像とは異なるが、水や花の表現、訪れるダンジョンや炭鉱等の空気感が丁寧に描写されている。&lt;/p&gt;&#xA;&lt;p&gt;中でも筆者的には毒々しい炭鉱がお気に入りである。落ち着いたトーンで統一された世界観は、鳥山明氏のデザインによるモンスターやキャラクターと見事に調和しており、歩いているだけで「ドラクエの世界」を旅している実感を強く得られた。&lt;/p&gt;</description>
     </item>
     <item>
       <title>令和に初めて『FF10』をクリアした。名作の輝きは、全く色褪せていなかった</title>
-      <link>http://localhost:36467/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</link>
+      <link>http://localhost:1313/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</guid>
+      <guid>http://localhost:1313/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</guid>
       <description>&lt;p&gt;「名作なのは知っている。でも今さらやるのもな……」&#xA;ずっと食わず嫌いしていた『ファイナルファンタジーX』。&#xA;令和の今、ようやくエンディングまで辿り着いた。結論から言うと、名作と言われるだけの理由がそこにはあった。&lt;/p&gt;</description>
     </item>
   </channel>

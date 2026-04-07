@@ -2,171 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>氷山の一角ブログ Frozen Terminal</title>
-    <link>http://localhost:36467/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36467/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PS1版『ドラゴンクエストIV 導かれし者たち』クリアレビュー。章立てが紡ぐ群像劇と、ドット絵が描く旅の空気感</title>
-      <link>http://localhost:36467/post/review/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88iv-%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%AB%A0%E7%AB%8B%E3%81%A6%E3%81%8C%E7%B4%A1%E3%81%90%E7%BE%A4%E5%83%8F%E5%8A%87%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%8F%E6%97%85%E3%81%AE%E7%A9%BA%E6%B0%97%E6%84%9F/</link>
+      <link>http://localhost:1313/post/review/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88iv-%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%AB%A0%E7%AB%8B%E3%81%A6%E3%81%8C%E7%B4%A1%E3%81%90%E7%BE%A4%E5%83%8F%E5%8A%87%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%8F%E6%97%85%E3%81%AE%E7%A9%BA%E6%B0%97%E6%84%9F/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/review/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88iv-%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%AB%A0%E7%AB%8B%E3%81%A6%E3%81%8C%E7%B4%A1%E3%81%90%E7%BE%A4%E5%83%8F%E5%8A%87%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%8F%E6%97%85%E3%81%AE%E7%A9%BA%E6%B0%97%E6%84%9F/</guid>
+      <guid>http://localhost:1313/post/review/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88iv-%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%AB%A0%E7%AB%8B%E3%81%A6%E3%81%8C%E7%B4%A1%E3%81%90%E7%BE%A4%E5%83%8F%E5%8A%87%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%8F%E6%97%85%E3%81%AE%E7%A9%BA%E6%B0%97%E6%84%9F/</guid>
       <description>&lt;h2 id=&#34;独特の空気感を纏ったグラフィック&#34;&gt;独特の空気感を纏ったグラフィック&lt;/h2&gt;&#xA;&lt;p&gt;PS1版をプレイしてまず目を引いたのは、そのグラフィックの質だ。現代のフォトリアルな映像とは異なるが、水や花の表現、訪れるダンジョンや炭鉱等の空気感が丁寧に描写されている。&lt;/p&gt;&#xA;&lt;p&gt;中でも筆者的には毒々しい炭鉱がお気に入りである。落ち着いたトーンで統一された世界観は、鳥山明氏のデザインによるモンスターやキャラクターと見事に調和しており、歩いているだけで「ドラクエの世界」を旅している実感を強く得られた。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugoサイトマップのサーチコンソール登録エラーと対策</title>
-      <link>http://localhost:36467/post/log/hugo%E3%82%B5%E3%82%A4%E3%83%88%E3%83%9E%E3%83%83%E3%83%97%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E7%99%BB%E9%8C%B2%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%A8%E5%AF%BE%E7%AD%96/</link>
+      <link>http://localhost:1313/post/log/hugo%E3%82%B5%E3%82%A4%E3%83%88%E3%83%9E%E3%83%83%E3%83%97%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E7%99%BB%E9%8C%B2%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%A8%E5%AF%BE%E7%AD%96/</link>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/log/hugo%E3%82%B5%E3%82%A4%E3%83%88%E3%83%9E%E3%83%83%E3%83%97%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E7%99%BB%E9%8C%B2%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%A8%E5%AF%BE%E7%AD%96/</guid>
+      <guid>http://localhost:1313/post/log/hugo%E3%82%B5%E3%82%A4%E3%83%88%E3%83%9E%E3%83%83%E3%83%97%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E7%99%BB%E9%8C%B2%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%A8%E5%AF%BE%E7%AD%96/</guid>
       <description>&lt;h2 id=&#34;そもそもサイトマップsitemapxmlとは&#34;&gt;そもそもサイトマップ（sitemap.xml）とは&lt;/h2&gt;&#xA;&lt;p&gt;サイト内にどのようなページが存在するかを、検索エンジン（Google等）に伝えるためのリスト。人間が読むためのものではなく、クローラー（ロボット）が効率よくサイト内を巡回し、新しい記事を素早く検索結果に反映させるために用意するもの。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cloudflare Pages &#43; 独自ドメイン移行作業ログ</title>
-      <link>http://localhost:36467/post/log/cloudflare-pages-&#43;-%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E7%A7%BB%E8%A1%8C%E4%BD%9C%E6%A5%AD%E3%83%AD%E3%82%B0/</link>
+      <link>http://localhost:1313/post/log/cloudflare-pages-&#43;-%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E7%A7%BB%E8%A1%8C%E4%BD%9C%E6%A5%AD%E3%83%AD%E3%82%B0/</link>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/log/cloudflare-pages-&#43;-%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E7%A7%BB%E8%A1%8C%E4%BD%9C%E6%A5%AD%E3%83%AD%E3%82%B0/</guid>
+      <guid>http://localhost:1313/post/log/cloudflare-pages-&#43;-%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E7%A7%BB%E8%A1%8C%E4%BD%9C%E6%A5%AD%E3%83%AD%E3%82%B0/</guid>
       <description>&lt;h3 id=&#34;1-ドメイン取得とdns初期設定&#34;&gt;1. ドメイン取得とDNS初期設定&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;レジストラで独自ドメインを取得。&lt;/li&gt;&#xA;&lt;li&gt;Cloudflareへドメインを追加し、ネームサーバーを切り替え。&lt;/li&gt;&#xA;&lt;li&gt;Search Console認証用のTXTレコードをDNSに登録し、所有権を確認。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-静的サイトジェネレーター側の構成変更&#34;&gt;2. 静的サイトジェネレーター側の構成変更&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;設定ファイル（&lt;code&gt;hugo.toml&lt;/code&gt; 等）の &lt;code&gt;baseURL&lt;/code&gt; を新ドメインに書き換え。&lt;/li&gt;&#xA;&lt;li&gt;リポジトリを更新し、ホスティング先へデプロイ。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-ホスティング側カスタムドメイン紐付け&#34;&gt;3. ホスティング側カスタムドメイン紐付け&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;管理画面からカスタムドメインを追加。&lt;/li&gt;&#xA;&lt;li&gt;ステータスが &lt;code&gt;Verifying&lt;/code&gt;（検証中）から進まない問題が発生。&lt;/li&gt;&#xA;&lt;li&gt;DNSレコード内の古い「タイプA」レコード（初期設定のIPアドレス）を削除。&lt;/li&gt;&#xA;&lt;li&gt;替わりにルートドメインをホスティング側のドメインへ向けるCNAMEレコードを手動追加。&lt;/li&gt;&#xA;&lt;li&gt;ステータスが &lt;code&gt;Active&lt;/code&gt; に移行。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;4-インデックス最適化&#34;&gt;4. インデックス最適化&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Search Consoleにて &lt;code&gt;sitemap.xml&lt;/code&gt; を送信。&lt;/li&gt;&#xA;&lt;li&gt;ドメイン浸透待ちによる一時的なエラーを確認。24時間以内の反映を待機。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;&#xA;&lt;p&gt;ドメインの紐付けにおいて、デフォルトで生成されるAレコードと追加したCNAMEが競合し、検証が止まる現象に時間を取られた。&lt;/p&gt;</description>
     </item>
     <item>
       <title>震災から15年：日常が一変した記憶と防災の再確認</title>
-      <link>http://localhost:36467/post/diary/%E9%9C%87%E7%81%BD%E3%81%8B%E3%82%8915%E5%B9%B4%E6%97%A5%E5%B8%B8%E3%81%8C%E4%B8%80%E5%A4%89%E3%81%97%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%A8%E9%98%B2%E7%81%BD%E3%81%AE%E5%86%8D%E7%A2%BA%E8%AA%8D/</link>
+      <link>http://localhost:1313/post/diary/%E9%9C%87%E7%81%BD%E3%81%8B%E3%82%8915%E5%B9%B4%E6%97%A5%E5%B8%B8%E3%81%8C%E4%B8%80%E5%A4%89%E3%81%97%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%A8%E9%98%B2%E7%81%BD%E3%81%AE%E5%86%8D%E7%A2%BA%E8%AA%8D/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/diary/%E9%9C%87%E7%81%BD%E3%81%8B%E3%82%8915%E5%B9%B4%E6%97%A5%E5%B8%B8%E3%81%8C%E4%B8%80%E5%A4%89%E3%81%97%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%A8%E9%98%B2%E7%81%BD%E3%81%AE%E5%86%8D%E7%A2%BA%E8%AA%8D/</guid>
+      <guid>http://localhost:1313/post/diary/%E9%9C%87%E7%81%BD%E3%81%8B%E3%82%8915%E5%B9%B4%E6%97%A5%E5%B8%B8%E3%81%8C%E4%B8%80%E5%A4%89%E3%81%97%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%A8%E9%98%B2%E7%81%BD%E3%81%AE%E5%86%8D%E7%A2%BA%E8%AA%8D/</guid>
       <description>&lt;h3 id=&#34;2011年3月11日東京の自宅で&#34;&gt;2011年3月11日、東京の自宅で&lt;/h3&gt;&#xA;&lt;p&gt;あの東日本大震災から15年が経とうとしている。何気ない日常が突如として一変したあの日、自分は東京の自宅でゲームをしていた。&lt;/p&gt;&#xA;&lt;p&gt;突然、経験したことのない激しい揺れに襲われた。あまりに長く続く揺れに、これが本当に地震なのかとさえ疑った記憶がある。恐怖からしばらく家に戻れず、外で過ごした。通りには人が溢れかえっていた。後になって、これほどの衝撃でも「震度5弱」だったという事実に戦慄した。被災地の状況を思えば、自分の動揺など比較にもならないが。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sony VAIO type P：極限のロマンと格闘した記憶</title>
-      <link>http://localhost:36467/post/hobby/sony-vaio-type-p%E6%A5%B5%E9%99%90%E3%81%AE%E3%83%AD%E3%83%9E%E3%83%B3%E3%81%A8%E6%A0%BC%E9%97%98%E3%81%97%E3%81%9F%E8%A8%98%E6%86%B6/</link>
+      <link>http://localhost:1313/post/hobby/sony-vaio-type-p%E6%A5%B5%E9%99%90%E3%81%AE%E3%83%AD%E3%83%9E%E3%83%B3%E3%81%A8%E6%A0%BC%E9%97%98%E3%81%97%E3%81%9F%E8%A8%98%E6%86%B6/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/hobby/sony-vaio-type-p%E6%A5%B5%E9%99%90%E3%81%AE%E3%83%AD%E3%83%9E%E3%83%B3%E3%81%A8%E6%A0%BC%E9%97%98%E3%81%97%E3%81%9F%E8%A8%98%E6%86%B6/</guid>
+      <guid>http://localhost:1313/post/hobby/sony-vaio-type-p%E6%A5%B5%E9%99%90%E3%81%AE%E3%83%AD%E3%83%9E%E3%83%B3%E3%81%A8%E6%A0%BC%E9%97%98%E3%81%97%E3%81%9F%E8%A8%98%E6%86%B6/</guid>
       <description>&lt;h3 id=&#34;10万円超えのロマンと家電量販店&#34;&gt;10万円超えのロマンと家電量販店&lt;/h3&gt;&#xA;&lt;p&gt;当時はまだ学生で、PCのスペック表を見てもピンとこない一般ユーザーだった。ハンゲームやネットサーフィンができれば十分。そんな自分が初めて手にする10万円を超える買い物。祖母の支援もあって、憧れのVAIO type Pを手にすることになった。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugoをビルド・公開する際のコマンド備忘録</title>
-      <link>http://localhost:36467/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</link>
+      <link>http://localhost:1313/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</guid>
+      <guid>http://localhost:1313/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</guid>
       <description>&lt;p&gt;LubuntuでHugoブログを運営する際に、表示の更新や公開作業で迷わないためのコマンド集。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-執筆プレビュー確認用&#34;&gt;1. 執筆・プレビュー（確認用）&lt;/h2&gt;&#xA;&lt;p&gt;記事を書きながらブラウザでリアルタイム確認するためのコマンド。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;hugo server -D&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;下書き（draft: true）の記事も含めて表示されます。ブラウザで &lt;strong&gt;http://localhost:1313&lt;/strong&gt; を開いて確認する。&lt;/p&gt;</description>
     </item>
     <item>
       <title>フローではなくストック。ブログを思考の置き場にする</title>
-      <link>http://localhost:36467/post/think/%E3%83%95%E3%83%AD%E3%83%BC%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%80%9D%E8%80%83%E3%81%AE%E7%BD%AE%E3%81%8D%E5%A0%B4%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <link>http://localhost:1313/post/think/%E3%83%95%E3%83%AD%E3%83%BC%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%80%9D%E8%80%83%E3%81%AE%E7%BD%AE%E3%81%8D%E5%A0%B4%E3%81%AB%E3%81%99%E3%82%8B/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/think/%E3%83%95%E3%83%AD%E3%83%BC%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%80%9D%E8%80%83%E3%81%AE%E7%BD%AE%E3%81%8D%E5%A0%B4%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <guid>http://localhost:1313/post/think/%E3%83%95%E3%83%AD%E3%83%BC%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%80%9D%E8%80%83%E3%81%AE%E7%BD%AE%E3%81%8D%E5%A0%B4%E3%81%AB%E3%81%99%E3%82%8B/</guid>
       <description>&lt;p&gt;SNSのタイムラインは見ていて楽しいが、書いた端から流れて消えていく。&lt;/p&gt;&#xA;&lt;p&gt;その場のノリで言葉を投げる「フロー」の気楽さもいいけれど、後で自分で読み返したり、知識として取り出したりするには少し不便だ。&lt;/p&gt;&#xA;&lt;p&gt;だから、このブログは「ストック」の場所として使いたい。&lt;/p&gt;</description>
     </item>
     <item>
       <title>LubuntuのRemminaでメインPCを操作する：設定手順とセキュリティの注意点</title>
-      <link>http://localhost:36467/post/study/lubuntu%E3%81%AEremmina%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3pc%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9/</link>
+      <link>http://localhost:1313/post/study/lubuntu%E3%81%AEremmina%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3pc%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/study/lubuntu%E3%81%AEremmina%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3pc%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9/</guid>
+      <guid>http://localhost:1313/post/study/lubuntu%E3%81%AEremmina%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3pc%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9/</guid>
       <description>&lt;p&gt;Lubuntuなどの軽量LinuxからメインのWindowsを操作する場合、標準アプリの「Remmina」が使える。&#xA;接続には「RDP」という仕組みが存在する。&lt;/p&gt;&#xA;&lt;h3 id=&#34;rdpremote-desktop-protocolとは&#34;&gt;RDP（Remote Desktop Protocol）とは？&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;「離れた場所にあるコンピュータを、手元のコンピュータから操作するための通信ルール」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdownの書き方：初心者の自分が見直すためのマニュアル</title>
-      <link>http://localhost:36467/post/study/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
+      <link>http://localhost:1313/post/study/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/study/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</guid>
+      <guid>http://localhost:1313/post/study/markdown%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%87%AA%E5%88%86%E3%81%8C%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</guid>
       <description>&lt;p&gt;ブログを書くのにMarkdown（マークダウン）という記法を使うようにしている。&#xA;最初は「#」とか「*」を打つのに戸惑ったけど、慣れるとキーボードだけでスラスラ書けて気持ちがいい。&lt;/p&gt;&#xA;&lt;p&gt;ただ、しばらく書かないと「あれ、どう書くんだっけ？」となりそうなので、よく使うものだけをまとめておく。&lt;/p&gt;</description>
     </item>
     <item>
       <title>人類史の『殻』を破られるタイミングとは</title>
-      <link>http://localhost:36467/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</link>
+      <link>http://localhost:1313/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</link>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</guid>
+      <guid>http://localhost:1313/post/think/%E4%BA%BA%E9%A1%9E%E5%8F%B2%E3%81%AE%E6%AE%BB%E3%82%92%E7%A0%B4%E3%82%89%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF/</guid>
       <description>&lt;p&gt;人類の歴史の中でどこが一番重要だろう、と考えると、いろいろ候補は出てくる。&#xA;言葉や都市が生まれたウル・ウルク期とか、倫理の原型ができた出エジプトとか。どれも今の自分たちの土台になっているのは間違いない。&lt;/p&gt;&#xA;&lt;p&gt;特に、出エジプトで確立された「唯一神」という概念は決定的だった。それ以前にも宗教や信仰はあったけれど、絶対的な一柱の神と、それに基づく普遍的な「法」や「倫理」という形を民衆が共有したことで、人類の精神構造は一つ上のステージに上がった。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windowsが動かないノートPCにLubuntuを入れた結果。一般ユーザー視点のメリット・デメリット</title>
-      <link>http://localhost:36467/post/log/windows%E3%81%8C%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%83%8E%E3%83%BC%E3%83%88pc%E3%81%ABlubuntu%E3%82%92%E5%85%A5%E3%82%8C%E3%81%9F%E7%B5%90%E6%9E%9C%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A6%96%E7%82%B9%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/</link>
+      <link>http://localhost:1313/post/log/windows%E3%81%8C%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%83%8E%E3%83%BC%E3%83%88pc%E3%81%ABlubuntu%E3%82%92%E5%85%A5%E3%82%8C%E3%81%9F%E7%B5%90%E6%9E%9C%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A6%96%E7%82%B9%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/log/windows%E3%81%8C%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%83%8E%E3%83%BC%E3%83%88pc%E3%81%ABlubuntu%E3%82%92%E5%85%A5%E3%82%8C%E3%81%9F%E7%B5%90%E6%9E%9C%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A6%96%E7%82%B9%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/</guid>
+      <guid>http://localhost:1313/post/log/windows%E3%81%8C%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%83%8E%E3%83%BC%E3%83%88pc%E3%81%ABlubuntu%E3%82%92%E5%85%A5%E3%82%8C%E3%81%9F%E7%B5%90%E6%9E%9C%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A6%96%E7%82%B9%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/</guid>
       <description>&lt;p&gt;Windows 10や11を入れた状態では、重すぎて使い物にならなかったノートPCがある。&#xA;これを活用するために、軽量なLinuxディストリビューションである&lt;strong&gt;Lubuntu&lt;/strong&gt;をインストールした。&lt;/p&gt;&#xA;&lt;p&gt;プログラマーではない一般ユーザーの視点で、実際に使って感じたメリットとデメリット、導入時の注意点をまとめる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ポリゴンという名の哲学――最高の技術が『命』を定義した日</title>
-      <link>http://localhost:36467/post/game/%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%93%B2%E5%AD%A6%E6%9C%80%E9%AB%98%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8C%E5%91%BD%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%9F%E6%97%A5/</link>
+      <link>http://localhost:1313/post/game/%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%93%B2%E5%AD%A6%E6%9C%80%E9%AB%98%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8C%E5%91%BD%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%9F%E6%97%A5/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/game/%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%93%B2%E5%AD%A6%E6%9C%80%E9%AB%98%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8C%E5%91%BD%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%9F%E6%97%A5/</guid>
+      <guid>http://localhost:1313/post/game/%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%93%B2%E5%AD%A6%E6%9C%80%E9%AB%98%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8C%E5%91%BD%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%9F%E6%97%A5/</guid>
       <description>&lt;p&gt;ポケモンの世界において、ひときわ異彩を放つ存在がいる。図鑑番号137、ポリゴン。&#xA;「最高の技術を使い、世界で初めて人工的に作られた」とされる彼らのプロフィールを深掘りしていくと、あの世界の根幹に関わる恐ろしいほどの技術力と、一つの哲学的な問いに突き当たる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>消えた「一覧ページ」の行方。Hugoという職人の手品について</title>
-      <link>http://localhost:36467/post/log/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%80%E8%A6%A7%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%A1%8C%E6%96%B9hugo%E3%81%A8%E3%81%84%E3%81%86%E8%81%B7%E4%BA%BA%E3%81%AE%E6%89%8B%E5%93%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+      <link>http://localhost:1313/post/log/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%80%E8%A6%A7%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%A1%8C%E6%96%B9hugo%E3%81%A8%E3%81%84%E3%81%86%E8%81%B7%E4%BA%BA%E3%81%AE%E6%89%8B%E5%93%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/log/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%80%E8%A6%A7%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%A1%8C%E6%96%B9hugo%E3%81%A8%E3%81%84%E3%81%86%E8%81%B7%E4%BA%BA%E3%81%AE%E6%89%8B%E5%93%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+      <guid>http://localhost:1313/post/log/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%80%E8%A6%A7%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%A1%8C%E6%96%B9hugo%E3%81%A8%E3%81%84%E3%81%86%E8%81%B7%E4%BA%BA%E3%81%AE%E6%89%8B%E5%93%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
       <description>&lt;p&gt;カテゴリーメニューを追加し、記事のフロントマターに「note」と書き込んだ。&#xA;ブラウザを見れば、確かにそこには「note」の記事だけが集まった一覧ページが存在している。&lt;/p&gt;&#xA;&lt;p&gt;しかし、VS Codeに戻ってフォルダの海をいくら探しても、その「一覧ページ」という名のファイルはどこにも見当たらない。&lt;/p&gt;</description>
     </item>
     <item>
       <title>夏の2000m級で野営するために。気温の法則と準備した装備のまとめ</title>
-      <link>http://localhost:36467/post/study/%E5%A4%8F%E3%81%AE2000m%E7%B4%9A%E3%81%A7%E9%87%8E%E5%96%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E6%B8%A9%E3%81%AE%E6%B3%95%E5%89%87%E3%81%A8%E6%BA%96%E5%82%99%E3%81%97%E3%81%9F%E8%A3%85%E5%82%99%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/</link>
+      <link>http://localhost:1313/post/study/%E5%A4%8F%E3%81%AE2000m%E7%B4%9A%E3%81%A7%E9%87%8E%E5%96%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E6%B8%A9%E3%81%AE%E6%B3%95%E5%89%87%E3%81%A8%E6%BA%96%E5%82%99%E3%81%97%E3%81%9F%E8%A3%85%E5%82%99%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/study/%E5%A4%8F%E3%81%AE2000m%E7%B4%9A%E3%81%A7%E9%87%8E%E5%96%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E6%B8%A9%E3%81%AE%E6%B3%95%E5%89%87%E3%81%A8%E6%BA%96%E5%82%99%E3%81%97%E3%81%9F%E8%A3%85%E5%82%99%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/</guid>
+      <guid>http://localhost:1313/post/study/%E5%A4%8F%E3%81%AE2000m%E7%B4%9A%E3%81%A7%E9%87%8E%E5%96%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E6%B8%A9%E3%81%AE%E6%B3%95%E5%89%87%E3%81%A8%E6%BA%96%E5%82%99%E3%81%97%E3%81%9F%E8%A3%85%E5%82%99%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/</guid>
       <description>&lt;p&gt;ふと少し高めの山に泊まってみたいと思った。&lt;/p&gt;&#xA;&lt;p&gt;標高2000mの世界は、地上の夏とは全く別物と考えたほうが良さそうだ。初心者の僕が調べた、気温のルールと必要な装備を整理しておく。&lt;/p&gt;&#xA;&lt;h2 id=&#34;知っておくべき100mで06度の法則&#34;&gt;知っておくべき「100mで0.6度」の法則&lt;/h2&gt;&#xA;&lt;p&gt;山には、標高が上がるほど気温が下がるという明確な決まりがある。&lt;/p&gt;</description>
     </item>
     <item>
       <title>なぜ私は今、あえてLubuntuを使っているのか</title>
-      <link>http://localhost:36467/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</link>
+      <link>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</guid>
+      <guid>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</guid>
       <description>&lt;p&gt;世の中は、最新のOSと高価なスペックのPCで溢れている。&#xA;そんな中、私はあえて「Lubuntu」という軽量なLinuxを選んだ。&lt;/p&gt;&#xA;&lt;p&gt;「貧乏でもやれるか？」という問いに対して、Lubuntuは無言で首を縦に振ってくれる。&#xA;古いPCに命を吹き込み、余計な装飾を削ぎ落としたそのデスクトップ環境は、まるで深海のように静かだ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>faviconのペンギンが表示されなくて20分悩んだ話</title>
-      <link>http://localhost:36467/post/log/favicon%E3%81%AE%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A620%E5%88%86%E6%82%A9%E3%82%93%E3%81%A0%E8%A9%B1/</link>
+      <link>http://localhost:1313/post/log/favicon%E3%81%AE%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A620%E5%88%86%E6%82%A9%E3%82%93%E3%81%A0%E8%A9%B1/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/log/favicon%E3%81%AE%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A620%E5%88%86%E6%82%A9%E3%82%93%E3%81%A0%E8%A9%B1/</guid>
+      <guid>http://localhost:1313/post/log/favicon%E3%81%AE%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A620%E5%88%86%E6%82%A9%E3%82%93%E3%81%A0%E8%A9%B1/</guid>
       <description>&lt;p&gt;ブログの「顔」となるfavicon。&#xA;お気に入りのペンギンの画像を用意し、設定したはずなのに、ブラウザのタブにはいつまで経っても現れない。&lt;/p&gt;&#xA;&lt;p&gt;フォルダを確認し、設定ファイルを凝視し、Lubuntuの画面を睨みつけた。&#xA;原因は、拍子抜けするほど単純な思い込み「パス（住所）」の食い違いだった。&lt;/p&gt;</description>
     </item>
     <item>
       <title>VS CodeをLubuntuに入れたら、中古PCがコックピットになった</title>
-      <link>http://localhost:36467/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</link>
+      <link>http://localhost:1313/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</guid>
+      <guid>http://localhost:1313/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</guid>
       <description>&lt;p&gt;Lubuntuという軽量な土台の上に、Visual Studio Code（VS Code）をインストールした。&#xA;その瞬間、単なる「古いパソコン」は、世界へ繋がる「コックピット」へと進化した。&lt;/p&gt;&#xA;&lt;p&gt;左側にはブログの構造が並び、下側にはターミナルが鎮座する。&#xA;Markdownで文字を打てば、右側でリアルタイムに記事が組み上がっていく。&lt;/p&gt;</description>
     </item>
     <item>
       <title>統一感はなくていい。あえて「なんでもあり」の雑記ブログを選んだ理由</title>
-      <link>http://localhost:36467/post/note/%E7%B5%B1%E4%B8%80%E6%84%9F%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84%E3%81%82%E3%81%88%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%82%E3%82%8A%E3%81%AE%E9%9B%91%E8%A8%98%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E7%90%86%E7%94%B1/</link>
+      <link>http://localhost:1313/post/note/%E7%B5%B1%E4%B8%80%E6%84%9F%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84%E3%81%82%E3%81%88%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%82%E3%82%8A%E3%81%AE%E9%9B%91%E8%A8%98%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E7%90%86%E7%94%B1/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/note/%E7%B5%B1%E4%B8%80%E6%84%9F%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84%E3%81%82%E3%81%88%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%82%E3%82%8A%E3%81%AE%E9%9B%91%E8%A8%98%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E7%90%86%E7%94%B1/</guid>
+      <guid>http://localhost:1313/post/note/%E7%B5%B1%E4%B8%80%E6%84%9F%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84%E3%81%82%E3%81%88%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%82%E3%82%8A%E3%81%AE%E9%9B%91%E8%A8%98%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E7%90%86%E7%94%B1/</guid>
       <description>&lt;p&gt;ブログを始める時、よく「ジャンルは絞るべきだ」というアドバイスを目にする。しかし、私はこのブログを「なんでもあり」の雑記スタイルで運営することに決めた。&lt;/p&gt;&#xA;&lt;p&gt;日常の記録、サブカルチャーへの情熱、趣味や技術ログ、そして日々の思考。これらをあえて一箇所に混ぜ合わせる理由を整理しておく。&lt;/p&gt;</description>
     </item>
     <item>
       <title>なぜ私はnoteではなくHugoを選んだのか？Lubuntuで始めるミニマルブログ運営術</title>
-      <link>http://localhost:36467/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</link>
+      <link>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</link>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</guid>
+      <guid>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</guid>
       <description>&lt;p&gt;ブログを始めるにあたって、noteやWordPressといった選択肢がある中で、あえて「Hugo」という静的サイトジェネレーターを選んだ。その理由と、自分なりの運用ルールをまとめておく。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-なぜhugoなのか&#34;&gt;1. なぜ「Hugo」なのか？&lt;/h2&gt;&#xA;&lt;p&gt;最大の理由は、&lt;strong&gt;Lubuntuという中古PCでの軽量環境との親和性&lt;/strong&gt;だ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo &#43; Cloudflare Pages で作る「資産型ブログ」へのロードマップ</title>
-      <link>http://localhost:36467/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</link>
+      <link>http://localhost:1313/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</guid>
+      <guid>http://localhost:1313/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</guid>
       <description>&lt;p&gt;Lubuntu環境でHugoを構築し、将来的な収益化（広告実装）を見据えた最短ルートの一例を整理する。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-現状の構成ベースキャンプ&#34;&gt;1. 現状の構成（ベースキャンプ）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;エンジン&lt;/strong&gt;: Hugo (Static Site Generator)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;テーマ&lt;/strong&gt;: Hugoから&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;環境&lt;/strong&gt;: Lubuntu / Gitによる管理&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;執筆&lt;/strong&gt;: Markdown形式&lt;/p&gt;</description>
     </item>
     <item>
       <title>令和に初めて『FF10』をクリアした。名作の輝きは、全く色褪せていなかった</title>
-      <link>http://localhost:36467/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</link>
+      <link>http://localhost:1313/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</guid>
+      <guid>http://localhost:1313/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</guid>
       <description>&lt;p&gt;「名作なのは知っている。でも今さらやるのもな……」&#xA;ずっと食わず嫌いしていた『ファイナルファンタジーX』。&#xA;令和の今、ようやくエンディングまで辿り着いた。結論から言うと、名作と言われるだけの理由がそこにはあった。&lt;/p&gt;</description>
     </item>
     <item>
       <title>プライバシーポリシー</title>
-      <link>http://localhost:36467/privacy-policy/</link>
+      <link>http://localhost:1313/privacy-policy/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/privacy-policy/</guid>
+      <guid>http://localhost:1313/privacy-policy/</guid>
       <description>&lt;h2 id=&#34;1-広告の配信について&#34;&gt;1. 広告の配信について&lt;/h2&gt;&#xA;&lt;p&gt;当サイトでは、第三者配信の広告サービス「Googleアドセンス」を利用する予定です。&lt;/p&gt;&#xA;&lt;p&gt;広告配信事業者は、ユーザーの興味に応じた商品やサービスの広告を表示するため、当サイトや他サイトへのアクセスに関する情報 「Cookie」(氏名、住所、メール アドレス、電話番号は含まれません) を使用することがあります。&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:36467/page/about/</link>
+      <link>http://localhost:1313/page/about/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36467/page/about/</guid>
+      <guid>http://localhost:1313/page/about/</guid>
       <description>&lt;h2 id=&#34;自己紹介&#34;&gt;自己紹介&lt;/h2&gt;&#xA;&lt;p&gt;深海 航（Shinkai Wataru）と申します。&lt;/p&gt;&#xA;&lt;p&gt;LubuntuでHugoブログを運営しています。&lt;/p&gt;&#xA;&lt;p&gt;プログラマーやエンジニアとしての知識はありませんが、PCや電子機器を自分なりに触ったり、工夫したりするのが好きな「PCやデジタル好きな多趣味の一般人」です。&lt;/p&gt;</description>
     </item>
   </channel>
