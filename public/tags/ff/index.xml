@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FF on 氷山の一角ブログ Frozen Terminal</title>
-    <link>http://localhost:41889/tags/ff/</link>
+    <link>http://localhost:36467/tags/ff/</link>
     <description>Recent content in FF on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:41889/tags/ff/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36467/tags/ff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>令和に初めて『FF10』をクリアした。名作の輝きは、全く色褪せていなかった</title>
-      <link>http://localhost:41889/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</link>
+      <link>http://localhost:36467/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41889/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</guid>
+      <guid>http://localhost:36467/post/review/%E4%BB%A4%E5%92%8C%E3%81%AB%E5%88%9D%E3%82%81%E3%81%A6ff10%E3%82%92%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%97%E3%81%9F%E5%90%8D%E4%BD%9C%E3%81%AE%E8%BC%9D%E3%81%8D%E3%81%AF%E5%85%A8%E3%81%8F%E8%89%B2%E8%A4%AA%E3%81%9B%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F/</guid>
       <description>&lt;p&gt;「名作なのは知っている。でも今さらやるのもな……」&#xA;ずっと食わず嫌いしていた『ファイナルファンタジーX』。&#xA;令和の今、ようやくエンディングまで辿り着いた。結論から言うと、名作と言われるだけの理由がそこにはあった。&lt;/p&gt;</description>
     </item>
   </channel>
