@@ -20,7 +20,7 @@ enableRobotsTXT = true
   showReadingTime = true
   showFullPostContent = false
   googleAnalytics = "G-XXXXXXXXXX"
-  description = "Lubuntuの活用法やゲーム、サブカル、日日々を綴る個人ブログ。"
+  description = "Lubuntuの活用法やゲーム、サブカル、何気ない日々を綴る個人思考ブログ。"
   customCSS = ["css/custom.css"]
   math = true
   custom_footer = "<a href='/privacy-policy/'>プライバシーポリシー</a>"

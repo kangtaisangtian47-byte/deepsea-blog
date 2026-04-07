@@ -27,15 +27,23 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
- <!-- Site Title, Description, Author, and Favicon -->
+  {{/* --- 修正ポイント：一覧ページを検索から除外する設定を追加 --- */}}
+  {{- if or (eq .Kind "taxonomy") (eq .Kind "taxonomyTerm") (eq .Kind "section") -}}
+    <meta name="robots" content="noindex, follow">
+  {{- end -}}
 
-{{ if .IsHome }}
+ {{ if .IsHome }}
     {{- with .Site.Params.homeTitle }}
       <title>{{ . }}</title>
     {{- end }}
   {{ else }}
     {{- with ($.Scratch.Get "Title") }}
-      <title>{{ . }} - {{ $.Site.Params.homeTitle }}</title>
+      {{/* --- 修正ポイント：個別記事（IsPage）の時はタイトルをよりシンプルにする --- */}}
+      {{ if $.IsPage }}
+        <title>{{ . }} - {{ $.Site.Title }}</title>
+      {{ else }}
+        <title>{{ . }} - {{ $.Site.Params.homeTitle }}</title>
+      {{ end }}
     {{- end }}
 {{ end }}
 
@@ -49,10 +57,8 @@
 {{- with .Site.Params.favicon }}
   <link href='{{ . | absURL }}' rel='icon' type='image/x-icon'/>
 {{- end -}}
-<!-- Hugo Version number -->
-  {{ hugo.Generator -}}
-<!-- Links and stylesheets -->
-  <link rel="alternate" href="{{ "index.xml" | absLangURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
+{{ hugo.Generator -}}
+<link rel="alternate" href="{{ "index.xml" | absLangURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
   {{- if .Site.Params.selfHosted -}}
   <link rel="stylesheet" href="{{ "css/katex.min.css" | absURL }}" />
