@@ -1,8 +1,8 @@
 baseURL = "https://iceberg-diary.com/"
 languageCode = 'ja-jp'
 title = "氷山の一角ブログ Frozen Terminal"
-hasCJKLanguage = true      
-summaryLength = 100        
+hasCJKLanguage = true
+summaryLength = 100
 enableRobotsTXT = true
 
 [taxonomies]
@@ -10,23 +10,21 @@ enableRobotsTXT = true
   tag = "tags"
 
 [params]
-  title = "氷山の一角日記 Frozen Terminal"
+  title = "氷山の一角ブログ Frozen Terminal"
   subtitle = "Lubuntuから更新中"
-  avatar = "/img/avatar-icon.png"
-  logo = "/img/avatar-icon.png"
+  avatar = ""
+  logo = ""
   favicon = "/img/favicon.ico"
   showNavbarLinks = true
   showPageDates = true
   showReadingTime = true
-  bigimg = [{src = "/img/header-bg.jpg", desc = ""}]
-  showFullPostContent = false 
+  showFullPostContent = false
   googleAnalytics = "G-XXXXXXXXXX"
-  description = "Lubuntuの活用法やゲーム、サブカル、日々の思考を綴る個人ブログ。軽量Linuxと趣味の記録と日記。深海 航(Shinkai Wataru)。"
+  description = "Lubuntuの活用法やゲーム、サブカル、日日々を綴る個人ブログ。"
   customCSS = ["css/custom.css"]
   math = true
   custom_footer = "<a href='/privacy-policy/'>プライバシーポリシー</a>"
-  keywords = ["Lubuntu", "Linux", "ブログ", "深海航", "Frozen Terminal"]
-  images = ["/img/header-bg.jpg"]
+  keywords = ["Lubuntu", "Linux", "ブログ", "Frozen Terminal"]
 
 [params.author]
   name = "深海 航"
@@ -39,59 +37,14 @@ enableRobotsTXT = true
     weight = 1
 
 [[menu.main]]
-    name = "Diary"
-    url = "/categories/diary/"
+    name = "About"
+    url = "/page/about/"
     weight = 2
 
 [[menu.main]]
-    name = "Log"
-    url = "/categories/log/"
-    weight = 3
-
-[[menu.main]]
-    name = "Note"
-    url = "/categories/note/"
-    weight = 4
-
-[[menu.main]]
-    name = "Study"
-    url = "/categories/study/"
-    weight = 5
-
-[[menu.main]]
-    name = "Game"
-    url = "/categories/game/"
-    weight = 6
-
-[[menu.main]]
-    name = "Review"
-    url = "/categories/review/"
-    weight = 7
-
-[[menu.main]]
-    name = "Hobby"
-    url = "/categories/hobby/"
-    weight = 8
-
-[[menu.main]]
-    name = "Think"
-    url = "/categories/think/"
-    weight = 9
-
-[[menu.main]]
-    name = "About"
-    url = "/page/about/"
-    weight = 10
-
-[[menu.main]]
-    name = "tags"
+    name = "Search"
     url = "/tags/"
-    weight = 11
-
-[[menu.footer]]
-    name = "プライバシーポリシー"
-    url = "/privacy-policy/"
-    weight = 12
+    weight = 3
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

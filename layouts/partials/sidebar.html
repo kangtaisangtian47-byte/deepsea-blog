@@ -1,0 +1,56 @@
+<aside data-pagefind-ignore> <div style="margin-bottom: 40px; border: 1px solid #eee; padding: 20px; background: #fff; border-radius: 8px; text-align: center;">
+    <h3 style="font-size: 1.1em; border-bottom: 2px solid #1a73e8; padding-bottom: 8px; text-align: left; margin-bottom: 15px;">プロフィール</h3>
+    <img src="{{ "img/avatar-icon.png" | absURL }}" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 1px solid #eee;">
+    <p style="margin-top: 15px; font-weight: bold;">{{ .Site.Params.author.name | default "深海 航" }}</p>
+    <p style="font-size: 0.85em; color: #666; text-align: left;">{{ .Site.Params.description }}</p>
+  </div>
+
+  <div style="margin-bottom: 40px;">
+    <h3 style="font-size: 1.1em; border-left: 5px solid #1a73e8; padding-left: 10px; margin-bottom: 15px;">最新記事</h3>
+    <ul style="list-style: none; padding: 0;">
+      {{ range first 5 (where .Site.RegularPages "Section" "post") }}
+      <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 5px;">
+        <a href="{{ .Permalink }}" style="color: #333; font-size: 0.9em; text-decoration: none;">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+
+  <div style="margin-bottom: 40px;">
+    <h3 style="font-size: 1.1em; border-left: 5px solid #1a73e8; padding-left: 10px; margin-bottom: 15px;">カテゴリ</h3>
+    {{ range $name, $items := .Site.Taxonomies.categories }}
+    <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" style="display: inline-block; background: #f8f9fa; color: #555; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; border: 1px solid #eee; margin: 0 5px 5px 0;">{{ $name }}</a>
+    {{ end }}
+  </div>
+
+  <div style="margin-bottom: 40px;">
+    <h3 style="font-size: 1.1em; border-left: 5px solid #1a73e8; padding-left: 10px; margin-bottom: 15px;">タグ</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      {{ range $name, $items := .Site.Taxonomies.tags }}
+      <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" style="font-size: 0.8em; color: #1a73e8; text-decoration: none;">#{{ $name }}</a>
+      {{ end }}
+    </div>
+  </div>
+
+  <div style="padding: 15px; background: #fcfcfc; border: 1px solid #eee; border-radius: 8px;">
+    <h3 style="font-size: 1.1em; border-left: 5px solid #1a73e8; padding-left: 10px; margin-bottom: 15px;">ブログ内検索</h3>
+    <div id="search"></div>
+  </div>
+</aside>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ 
+      element: "#search", 
+      showSubResults: false, 
+      translations: {
+        placeholder: "記事を検索...",
+        zero_results: "見つかりませんでした",
+        searching: "検索中...",
+        clear_search: "消去"
+      }
+    });
+  });
+</script>

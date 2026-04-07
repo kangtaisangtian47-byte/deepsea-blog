@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Note on 氷山の一角ブログ Frozen Terminal</title>
-    <link>http://localhost:1313/categories/note/</link>
+    <link>http://localhost:41889/categories/note/</link>
     <description>Recent content in Note on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/note/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41889/categories/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugoをビルド・公開する際のコマンド備忘録</title>
-      <link>http://localhost:1313/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</link>
+      <link>http://localhost:41889/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</guid>
+      <guid>http://localhost:41889/post/note/hugo%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%82%99%E5%BF%98%E9%8C%B2/</guid>
       <description>&lt;p&gt;LubuntuでHugoブログを運営する際に、表示の更新や公開作業で迷わないためのコマンド集。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-執筆プレビュー確認用&#34;&gt;1. 執筆・プレビュー（確認用）&lt;/h2&gt;&#xA;&lt;p&gt;記事を書きながらブラウザでリアルタイム確認するためのコマンド。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;hugo server -D&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;下書き（draft: true）の記事も含めて表示されます。ブラウザで &lt;strong&gt;http://localhost:1313&lt;/strong&gt; を開いて確認する。&lt;/p&gt;</description>
     </item>
     <item>
       <title>なぜ私は今、あえてLubuntuを使っているのか</title>
-      <link>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</link>
+      <link>http://localhost:41889/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</guid>
+      <guid>http://localhost:41889/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E4%BB%8A%E3%81%82%E3%81%88%E3%81%A6lubuntu%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/</guid>
       <description>&lt;p&gt;世の中は、最新のOSと高価なスペックのPCで溢れている。&#xA;そんな中、私はあえて「Lubuntu」という軽量なLinuxを選んだ。&lt;/p&gt;&#xA;&lt;p&gt;「貧乏でもやれるか？」という問いに対して、Lubuntuは無言で首を縦に振ってくれる。&#xA;古いPCに命を吹き込み、余計な装飾を削ぎ落としたそのデスクトップ環境は、まるで深海のように静かだ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>VS CodeをLubuntuに入れたら、中古PCがコックピットになった</title>
-      <link>http://localhost:1313/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</link>
+      <link>http://localhost:41889/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</guid>
+      <guid>http://localhost:41889/post/note/vs-code%E3%82%92lubuntu%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E4%B8%AD%E5%8F%A4pc%E3%81%8C%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</guid>
       <description>&lt;p&gt;Lubuntuという軽量な土台の上に、Visual Studio Code（VS Code）をインストールした。&#xA;その瞬間、単なる「古いパソコン」は、世界へ繋がる「コックピット」へと進化した。&lt;/p&gt;&#xA;&lt;p&gt;左側にはブログの構造が並び、下側にはターミナルが鎮座する。&#xA;Markdownで文字を打てば、右側でリアルタイムに記事が組み上がっていく。&lt;/p&gt;</description>
     </item>
     <item>
       <title>統一感はなくていい。あえて「なんでもあり」の雑記ブログを選んだ理由</title>
-      <link>http://localhost:1313/post/note/%E7%B5%B1%E4%B8%80%E6%84%9F%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84%E3%81%82%E3%81%88%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%82%E3%82%8A%E3%81%AE%E9%9B%91%E8%A8%98%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E7%90%86%E7%94%B1/</link>
+      <link>http://localhost:41889/post/note/%E7%B5%B1%E4%B8%80%E6%84%9F%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84%E3%81%82%E3%81%88%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%82%E3%82%8A%E3%81%AE%E9%9B%91%E8%A8%98%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E7%90%86%E7%94%B1/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/%E7%B5%B1%E4%B8%80%E6%84%9F%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84%E3%81%82%E3%81%88%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%82%E3%82%8A%E3%81%AE%E9%9B%91%E8%A8%98%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E7%90%86%E7%94%B1/</guid>
+      <guid>http://localhost:41889/post/note/%E7%B5%B1%E4%B8%80%E6%84%9F%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84%E3%81%82%E3%81%88%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%82%E3%82%8A%E3%81%AE%E9%9B%91%E8%A8%98%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E7%90%86%E7%94%B1/</guid>
       <description>&lt;p&gt;ブログを始める時、よく「ジャンルは絞るべきだ」というアドバイスを目にする。しかし、私はこのブログを「なんでもあり」の雑記スタイルで運営することに決めた。&lt;/p&gt;&#xA;&lt;p&gt;日常の記録、サブカルチャーへの情熱、趣味や技術ログ、そして日々の思考。これらをあえて一箇所に混ぜ合わせる理由を整理しておく。&lt;/p&gt;</description>
     </item>
     <item>
       <title>なぜ私はnoteではなくHugoを選んだのか？Lubuntuで始めるミニマルブログ運営術</title>
-      <link>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</link>
+      <link>http://localhost:41889/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</link>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</guid>
+      <guid>http://localhost:41889/post/note/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AFnote%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fhugo%E3%82%92%E9%81%B8%E3%82%93%E3%81%A0%E3%81%AE%E3%81%8Blubuntu%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6%E8%A1%93/</guid>
       <description>&lt;p&gt;ブログを始めるにあたって、noteやWordPressといった選択肢がある中で、あえて「Hugo」という静的サイトジェネレーターを選んだ。その理由と、自分なりの運用ルールをまとめておく。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-なぜhugoなのか&#34;&gt;1. なぜ「Hugo」なのか？&lt;/h2&gt;&#xA;&lt;p&gt;最大の理由は、&lt;strong&gt;Lubuntuという中古PCでの軽量環境との親和性&lt;/strong&gt;だ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo &#43; Cloudflare Pages で作る「資産型ブログ」へのロードマップ</title>
-      <link>http://localhost:1313/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</link>
+      <link>http://localhost:41889/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</guid>
+      <guid>http://localhost:41889/post/note/hugo-&#43;-cloudflare-pages-%E3%81%A7%E4%BD%9C%E3%82%8B%E8%B3%87%E7%94%A3%E5%9E%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/</guid>
       <description>&lt;p&gt;Lubuntu環境でHugoを構築し、将来的な収益化（広告実装）を見据えた最短ルートの一例を整理する。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-現状の構成ベースキャンプ&#34;&gt;1. 現状の構成（ベースキャンプ）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;エンジン&lt;/strong&gt;: Hugo (Static Site Generator)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;テーマ&lt;/strong&gt;: Hugoから&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;環境&lt;/strong&gt;: Lubuntu / Gitによる管理&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;執筆&lt;/strong&gt;: Markdown形式&lt;/p&gt;</description>
     </item>
   </channel>

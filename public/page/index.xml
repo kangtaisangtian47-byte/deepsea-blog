@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 氷山の一角ブログ Frozen Terminal</title>
-    <link>http://localhost:1313/page/</link>
+    <link>http://localhost:41889/page/</link>
     <description>Recent content in Pages on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41889/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/page/about/</link>
+      <link>http://localhost:41889/page/about/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/page/about/</guid>
+      <guid>http://localhost:41889/page/about/</guid>
       <description>&lt;h2 id=&#34;自己紹介&#34;&gt;自己紹介&lt;/h2&gt;&#xA;&lt;p&gt;深海 航（Shinkai Wataru）と申します。&lt;/p&gt;&#xA;&lt;p&gt;LubuntuでHugoブログを運営しています。&lt;/p&gt;&#xA;&lt;p&gt;プログラマーやエンジニアとしての知識はありませんが、PCや電子機器を自分なりに触ったり、工夫したりするのが好きな「PCやデジタル好きな多趣味の一般人」です。&lt;/p&gt;</description>
     </item>
   </channel>
