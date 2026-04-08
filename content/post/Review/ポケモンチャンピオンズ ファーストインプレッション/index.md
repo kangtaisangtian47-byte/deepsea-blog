@@ -5,7 +5,7 @@ description: "本日サービス開始の『ポケモンチャンピオンズ』
 draft: false
 categories: ["Review"]
 tags: ["ポケモン", "ゲーム","レビュー",]
-image: "1.jpg"
+thumbnail: "1.jpg"
 ---
 
 本日サービス開始となった『ポケモンチャンピオンズ』をプレイしたレビューを書いていきたい。
