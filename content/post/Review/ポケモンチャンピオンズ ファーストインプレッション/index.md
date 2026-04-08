@@ -2,10 +2,11 @@
 title: "ポケモンチャンピオンズ ファーストインプレッション"
 date: 2026-04-08
 description: "本日サービス開始の『ポケモンチャンピオンズ』をプレイ。厳選不要な対戦特化型の仕様や、Switch/スマホのマルチ展開、バトルの手応えについて。"
+slug: "pokemon-champions-first-impression"
 draft: false
 categories: ["Review"]
 tags: ["ポケモン", "ゲーム","レビュー",]
-thumbnail: "post/Review/ポケモンチャンピオンズ ファーストインプレッション/1.jpg"
+thumbnail: "1.jpg"
 ---
 
 本日サービス開始となった『ポケモンチャンピオンズ』をプレイしたレビューを書いていきたい。
