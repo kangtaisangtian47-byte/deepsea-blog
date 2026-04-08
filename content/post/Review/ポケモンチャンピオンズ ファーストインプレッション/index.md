@@ -6,7 +6,7 @@ slug: "pokemon-champions-first-impression"
 draft: false
 categories: ["Review"]
 tags: ["ポケモン", "ゲーム","レビュー",]
-thumbnail: "pokemon-champions-first-impression/1.jpg"
+thumbnail: "1.jpg"
 ---
 
 本日サービス開始となった『ポケモンチャンピオンズ』をプレイしたレビューを書いていきたい。

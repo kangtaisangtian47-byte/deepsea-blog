@@ -10,6 +10,15 @@
           <time class="post-meta" style="color: #999; font-size: 0.9em;">{{ .Date.Format "2006/01/02" }}</time>
         </header>
 
+        {{ if .Params.thumbnail }}
+          {{ $image := .Resources.GetMatch .Params.thumbnail }}
+          {{ with $image }}
+            <div class="post-thumbnail" style="margin-bottom: 40px;">
+              <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+            </div>
+          {{ end }}
+        {{ end }}
+
         {{ if .Params.showToc | default true }}
           {{ if ne .TableOfContents "<nav id=\"TableOfContents\"></nav>" }}
           <div class="well toc-container" data-pagefind-ignore>
@@ -75,5 +84,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto
 #TableOfContents a { color: #337ab7 !important; text-decoration: none !important; }
 .post-content h2 { font-size: 2.2rem !important; font-weight: bold !important; margin-top: 4rem !important; border-bottom: 1px solid #eee !important; padding-bottom: 0.5rem !important; }
 .post-content h3 { font-size: 1.8rem !important; font-weight: bold !important; margin-top: 3rem !important; }
+
+/* 追記した画像のスタイルを少し調整 */
+.post-thumbnail img {
+  display: block;
+  margin: 0 auto;
+}
 </style>
 {{ end }}
