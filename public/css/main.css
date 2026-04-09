@@ -1,44 +1,58 @@
-/* 余白の適正化 */
-body { background-color: #f4f7f8; }
-.navbar-custom { background: #fff !important; border-bottom: 1px solid #ddd; }
-.avatar-container { display: none !important; }
-
-/* 壁紙ゾーンの調整 */
-.intro-header {
-  margin-top: 50px;
-  padding: 80px 0;
-  background-color: #7199b9;
-  background-image: url('/img/header-bg.jpg');
-  background-size: cover;
-  background-position: center;
-  color: #fff;
-}
-
-/* 記事カードと壁紙の間の余白を固定 */
-.container[role="main"] {
-  margin-top: 40px !important;
-  padding-top: 0 !important;
-}
-
-/* 検索窓のスタイル */
-.sidebar-section .input-group { display: flex; }
-.sidebar-section .form-control { border-radius: 4px 0 0 4px; border: 1px solid #ddd; height: 34px; }
-.sidebar-section .btn-primary { border-radius: 0 4px 4px 0; background-color: #1a73e8; border: none; height: 34px; padding: 0 15px; }
-
-/* 記事カード */
-.post-preview-card {
+/* PCでの表示：画像を左、文字を右に並べる */
+.my-article-card {
+  display: flex; 
   background: #fff;
-  margin-bottom: 25px;
-  border-radius: 6px;
+  margin-bottom: 30px;
   border: 1px solid #e0e0e0;
-  padding: 20px;
+  border-radius: 8px;
+  overflow: hidden;
+  min-height: 160px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
-.post-title { font-size: 1.3rem; margin: 5px 0; color: #1a73e8; }
-.post-entry { font-size: 0.95rem; color: #555; }
 
-/* プロフィール画像巨大化防止 */
-.side-profile img {
-  width: 80px !important;
-  height: 80px !important;
+.my-card-img {
+  flex: 0 0 240px; /* 画像の幅を固定 */
+  background: #f8f9fa;
+}
+
+.my-card-img img {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
+  display: block;
+}
+
+.my-card-body {
+  padding: 20px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.my-title { font-size: 1.25em; color: #1a73e8; font-weight: bold; margin: 10px 0; }
+.my-date { font-size: 0.85em; color: #999; margin: 0; }
+.my-text { font-size: 0.9em; color: #666; margin: 0; line-height: 1.6; }
+
+/* 記事本文内の画像：横伸びを絶対に防ぐ */
+article img, .post-entry img, img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+/* スマホ表示（画面幅が768px以下）の時の切り替え命令 */
+@media screen and (max-width: 768px) {
+  .my-article-card {
+    flex-direction: column !important; /* 横並びを解除して「縦並び」にする */
+    min-height: auto;
+  }
+
+  .my-card-img {
+    flex: 0 0 180px !important; /* スマホでは画像の高さを固定 */
+    width: 100% !important;
+  }
+
+  .my-card-body {
+    padding: 15px !important;
+  }
 }

@@ -6,12 +6,12 @@
     <description>Recent content in Categories on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review</title>
       <link>http://localhost:1313/categories/review/</link>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/review/</guid>
       <description></description>
     </item>
@@ -44,7 +44,7 @@
       <description></description>
     </item>
     <item>
-      <title>THINK</title>
+      <title>Think</title>
       <link>http://localhost:1313/categories/think/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/think/</guid>
