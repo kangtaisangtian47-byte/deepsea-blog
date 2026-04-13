@@ -6,20 +6,27 @@
     <description>Recent content in ポケモン on 氷山の一角ブログ Frozen Terminal</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ポケモンチャンピオンズ：無課金でマスターボール級到達。リザードンY、ガラルヤドンと駆け抜けた1週間</title>
+      <link>http://localhost:1313/post/game/pokemon-champions-master-rank-report/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/game/pokemon-champions-master-rank-report/</guid>
+      <description>&lt;h2 id=&#34;pokémon-champions-ついにマスターボール級へ&#34;&gt;Pokémon Champions ついにマスターボール級へ&lt;/h2&gt;&#xA;&lt;p&gt;先日ファーストインプレッションを書いた『ポケモンチャンピオンズ』だが、その後も空き時間にポチポチと進めていた。そして先日、ついに無課金でマスターボール級に昇格した。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;マスターボール級昇格&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;正直、上がるまではかなりの紆余曲折があった。このゲーム特有のスピーディーな仕様に助けられつつ、対戦特化型としての面白さを再確認した数日間を振り返る。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ポケモンチャンピオンズ ファーストインプレッション</title>
       <link>http://localhost:1313/post/review/pokemon-champions-first-impression/</link>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/review/pokemon-champions-first-impression/</guid>
-      <description>&lt;p&gt;本日サービス開始となった『ポケモンチャンピオンズ』をプレイしたレビューを書いていきたい。&lt;/p&gt;&#xA;&lt;p&gt;これまでポケモンの対戦にはそれほど熱心ではなかったが、今作は個体値などの厳選作業を排除した対戦特化型のゲームになっているという。&lt;/p&gt;</description>
+      <description>&lt;p&gt;本日サービス開始となった『ポケモンチャンピオンズ』をプレイしたレビューを書いていきたい。&lt;/p&gt;&#xA;&lt;p&gt;これまでポケモンの対戦にはそれほど熱心ではなかったが、今作は従来シリーズであった個体値、努力値の調整などをより素早く簡単に行え、厳選作業を排除した対戦特化型のゲームになっているという。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ポリゴンという名の哲学――最高の技術が『命』を定義した日</title>
-      <link>http://localhost:1313/post/game/%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%93%B2%E5%AD%A6%E6%9C%80%E9%AB%98%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8C%E5%91%BD%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%9F%E6%97%A5/</link>
+      <link>http://localhost:1313/post/game/porigon-kousatu1/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/game/%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%93%B2%E5%AD%A6%E6%9C%80%E9%AB%98%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8C%E5%91%BD%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%9F%E6%97%A5/</guid>
+      <guid>http://localhost:1313/post/game/porigon-kousatu1/</guid>
       <description>&lt;p&gt;ポケモンの世界において、ひときわ異彩を放つ存在がいる。図鑑番号137、ポリゴン。&#xA;「最高の技術を使い、世界で初めて人工的に作られた」とされる彼らのプロフィールを深掘りしていくと、あの世界の根幹に関わる恐ろしいほどの技術力と、一つの哲学的な問いに突き当たる。&lt;/p&gt;</description>
     </item>
   </channel>
