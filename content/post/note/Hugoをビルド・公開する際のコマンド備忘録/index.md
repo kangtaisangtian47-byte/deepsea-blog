@@ -3,6 +3,7 @@ title: "Hugoをビルド・公開する際のコマンド備忘録"
 date: 2026-02-22
 description: "Hugoビルドから、Gitを使った公開（デプロイ）までのコマンド手順。自分用のマニュアル。"
 categories: ["Note"]
+slug: "hugobirudocommand"
 tags: ["Hugo", "Linux", "Git", "備忘録", "マニュアル"]
 draft: false
 ---

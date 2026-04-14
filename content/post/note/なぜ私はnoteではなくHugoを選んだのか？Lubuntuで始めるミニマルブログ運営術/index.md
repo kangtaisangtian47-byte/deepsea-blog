@@ -3,6 +3,7 @@ title: "なぜ私はnoteではなくHugoを選んだのか？Lubuntuで始める
 date: 2026-02-02
 categories: ["note"]
 tags: ["Hugo", "Lubuntu", "ミニマリズム", "静的サイトジェネレーター"]
+slug: "noteorhugominimarulubuntu"
 description: "Lubuntu環境でブログを自作する。noteやWordPressではなく、静的サイトジェネレーター「Hugo」を選んだ3つの理由。爆速のビルド、Markdownによる資産性、そしてX（旧Twitter）とブログの画像運用の使い分け術。低スペックPCで「書く楽しさ」を最大化するためのミニマルな構築ログ。"
 ---
 

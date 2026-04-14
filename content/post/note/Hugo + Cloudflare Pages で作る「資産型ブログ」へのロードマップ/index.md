@@ -3,6 +3,7 @@ title: "Hugo + Cloudflare Pages で作る「資産型ブログ」へのロード
 date: 2026-02-01
 categories: ["note"]
 tags: ["Hugo", "ロードマップ", "ブログ運営", "マニュアル"]
+slug: "hugotocloudflarepages"
 description: "Lubuntu環境で構築したHugoを、Cloudflare Pagesで世界へ公開する3ステップ。GitHub連携から独自ドメイン取得、Google AdSense審査対策まで。静的サイトならではの爆速な表示速度とメンテナンス性を武器に、無料ブログにはない「消えない資産」としてのブログを構築する最短ルートを整理します。"
 ---
 
